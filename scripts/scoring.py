@@ -43,6 +43,7 @@ def fetch_bars(symbols, client=None):
     nothing for it (delisted/renamed/no data)."""
     from alpaca.data.requests import StockBarsRequest
     from alpaca.data.timeframe import TimeFrame
+    from alpaca.data.enums import DataFeed
     client = client or get_alpaca_client()
     end = datetime.now(timezone.utc)
     start = end - timedelta(days=BARS_LOOKBACK_DAYS)
@@ -52,6 +53,7 @@ def fetch_bars(symbols, client=None):
         timeframe=TimeFrame.Day,
         start=start,
         end=end,
+        feed=DataFeed.IEX,  # free-tier Alpaca accounts can't query SIP data
     )
     barset = client.get_stock_bars(request)
     # barset.data is {symbol: [Bar, ...]}
