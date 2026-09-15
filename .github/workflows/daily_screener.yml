@@ -1,0 +1,42 @@
+name: Daily Nasdaq-100 Screener
+
+on:
+  schedule:
+    # 21:30 UTC = 4:30pm ET (5:30pm during EDT) - after US market close.
+    # Cron is always UTC; adjust if you want a different local time.
+    - cron: "30 21 * * 1-5"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write   # needed to commit the updated banks + dashboard back to the repo
+
+jobs:
+  run-screener:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily pipeline
+        working-directory: scripts
+        env:
+          ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+          SKIP_NEWS_LAYER: "1"
+        run: python main.py
+
+      - name: Commit updated data + dashboard
+        run: |
+          git config user.name "screener-bot"
+          git config user.email "actions@github.com"
+          git add data/ public/
+          git diff --staged --quiet || git commit -m "Daily screener run: $(date -u +%Y-%m-%d)"
+          git push
