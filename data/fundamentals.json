@@ -1,0 +1,1037 @@
+{
+  "AAPL": {
+    "net_income": 112010000000,
+    "total_debt": 99887000000,
+    "total_equity": 73733000000,
+    "fcf": 98767000000,
+    "industry": "Computers, Phones & Household Electronics / Phones & Handheld Devices",
+    "fy": 2025,
+    "shares_outstanding": 14594180000,
+    "eps_ttm": 8.7233
+  },
+  "NVDA": {
+    "net_income": 120067000000,
+    "total_debt": 8468000000,
+    "total_equity": 157293000000,
+    "fcf": 96676000000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductors",
+    "fy": 2026,
+    "shares_outstanding": 24100000000,
+    "eps_ttm": 7.9108
+  },
+  "GOOGL": {
+    "net_income": 132170000000,
+    "total_debt": 51043000000,
+    "total_equity": 415265000000,
+    "fcf": 73266000000,
+    "industry": "Software & IT Services / Online Services",
+    "fy": 2025,
+    "shares_outstanding": 12230000000,
+    "eps_ttm": 19.9048
+  },
+  "GOOG": {
+    "net_income": 132170000000,
+    "total_debt": 51043000000,
+    "total_equity": 415265000000,
+    "fcf": 73266000000,
+    "industry": "Software & IT Services / Online Services",
+    "fy": 2025,
+    "shares_outstanding": 12230000000,
+    "eps_ttm": 19.9048
+  },
+  "MSFT": {
+    "net_income": 133749000000,
+    "total_debt": 106888000000,
+    "total_equity": 442387000000,
+    "fcf": 66987000000,
+    "industry": "Software & IT Services / Software",
+    "fy": 2026,
+    "shares_outstanding": 7425545491,
+    "eps_ttm": 17.9457
+  },
+  "SPCX": {
+    "net_income": -4937000000,
+    "total_debt": 22896000000,
+    "total_equity": 41325000000,
+    "fcf": -13952000000,
+    "industry": "Telecommunications Services",
+    "fy": 2025,
+    "shares_outstanding": 13181779945,
+    "eps_ttm": -0.4194
+  },
+  "AVGO": {
+    "net_income": 23126000000,
+    "total_debt": 65136000000,
+    "total_equity": 81292000000,
+    "fcf": 26914000000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductors",
+    "fy": 2025,
+    "shares_outstanding": 4757580198,
+    "eps_ttm": 7.8333
+  },
+  "META": {
+    "net_income": 60458000000,
+    "total_debt": 59928000000,
+    "total_equity": 217243000000,
+    "fcf": 46109000000,
+    "industry": "Software & IT Services / Online Services",
+    "fy": 2025,
+    "shares_outstanding": 2547506225,
+    "eps_ttm": 26.5582
+  },
+  "TSLA": {
+    "net_income": 3794000000,
+    "total_debt": 8376000000,
+    "total_equity": 82865000000,
+    "fcf": 6220000000,
+    "industry": "Automobiles & Auto Parts / Auto & Truck Manufacturers",
+    "fy": 2025,
+    "shares_outstanding": 3949547394,
+    "eps_ttm": 1.0766
+  },
+  "MU": {
+    "net_income": 8539000000,
+    "total_debt": 14577000000,
+    "total_equity": 54165000000,
+    "fcf": 1668000000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductors",
+    "fy": 2025,
+    "shares_outstanding": 1129393151,
+    "eps_ttm": 44.1721
+  },
+  "WMT": {
+    "net_income": 21893000000,
+    "total_debt": 51523000000,
+    "total_equity": 106180000000,
+    "fcf": 14923000000,
+    "industry": "Food & Drug Retailing / Food Retail & Distribution",
+    "fy": 2026,
+    "shares_outstanding": 7933746241,
+    "eps_ttm": 2.76
+  },
+  "AMD": {
+    "net_income": 4335000000,
+    "total_debt": 3222000000,
+    "total_equity": 62999000000,
+    "fcf": 6735000000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductors",
+    "fy": 2025,
+    "shares_outstanding": 1632475042,
+    "eps_ttm": 3.8972
+  },
+  "ASML": {
+    "net_income": 11253542569,
+    "total_debt": 5142171214,
+    "total_equity": 22967794824,
+    "fcf": 12914041457,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductor Equipment & Testing",
+    "fy": 2025,
+    "shares_outstanding": 384100000,
+    "eps_ttm": 32.7852
+  },
+  "INTC": {
+    "net_income": -267000000,
+    "total_debt": 46585000000,
+    "total_equity": 126360000000,
+    "fcf": -4949000000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductors",
+    "fy": 2025,
+    "shares_outstanding": 5285069511,
+    "eps_ttm": -2.1202
+  },
+  "PLTR": {
+    "net_income": 1625033000,
+    "total_debt": 0,
+    "total_equity": 7488011000,
+    "fcf": 2100591000,
+    "industry": "Software & IT Services / Software",
+    "fy": 2025,
+    "shares_outstanding": 2403058480,
+    "eps_ttm": 1.1735
+  },
+  "CSCO": {
+    "net_income": 13267000000,
+    "total_debt": 29533000000,
+    "total_equity": 50285000000,
+    "fcf": 12767000000,
+    "industry": "Communications & Networking",
+    "fy": 2026,
+    "shares_outstanding": 3942586873,
+    "eps_ttm": 3.3276
+  },
+  "COST": {
+    "net_income": 8099000000,
+    "total_debt": 7267000000,
+    "total_equity": 29164000000,
+    "fcf": 7837000000,
+    "industry": "Diversified Retail / Discount Stores",
+    "fy": 2025,
+    "shares_outstanding": 443478804,
+    "eps_ttm": 19.8822
+  },
+  "LRCX": {
+    "net_income": 7265396000,
+    "total_debt": 3734563000,
+    "total_equity": 12470921000,
+    "fcf": 4891252000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductor Equipment & Testing",
+    "fy": 2026,
+    "shares_outstanding": 1251321000,
+    "eps_ttm": 5.7611
+  },
+  "AMAT": {
+    "net_income": 6998000000,
+    "total_debt": 6555000000,
+    "total_equity": 20415000000,
+    "fcf": 5698000000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductor Equipment & Testing",
+    "fy": 2025,
+    "shares_outstanding": 793597443,
+    "eps_ttm": 11.5943
+  },
+  "NFLX": {
+    "net_income": 10981201000,
+    "total_debt": 14462836000,
+    "total_equity": 26615488000,
+    "fcf": 9461053000,
+    "industry": "Software & IT Services / Online Services",
+    "fy": 2025,
+    "shares_outstanding": 4163939676,
+    "eps_ttm": 3.1742
+  },
+  "PANW": {
+    "net_income": 1133900000,
+    "total_debt": 0,
+    "total_equity": 7824400000,
+    "fcf": 3469800000,
+    "industry": "Software & IT Services / Software",
+    "fy": 2025,
+    "shares_outstanding": 815000000,
+    "eps_ttm": 0.4018
+  },
+  "ARM": {
+    "net_income": 904000000,
+    "total_debt": 25000000,
+    "total_equity": 8286000000,
+    "fcf": 949000000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductors",
+    "fy": 2026,
+    "shares_outstanding": 1068000000,
+    "eps_ttm": 0.9748
+  },
+  "TXN": {
+    "net_income": 5001000000,
+    "total_debt": 14048000000,
+    "total_equity": 16273000000,
+    "fcf": 2603000000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductors",
+    "fy": 2025,
+    "shares_outstanding": 913247686,
+    "eps_ttm": 6.5746
+  },
+  "AMGN": {
+    "net_income": 7711000000,
+    "total_debt": 54604000000,
+    "total_equity": 8658000000,
+    "fcf": 8100000000,
+    "industry": "Pharmaceuticals",
+    "fy": 2025,
+    "shares_outstanding": 540632005,
+    "eps_ttm": 16.1026
+  },
+  "KLAC": {
+    "net_income": 4830771000,
+    "total_debt": 5887415000,
+    "total_equity": 6349820000,
+    "fcf": 3767134000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductor Equipment & Testing",
+    "fy": 2026,
+    "shares_outstanding": 1306546783,
+    "eps_ttm": 3.6607
+  },
+  "LIN": {
+    "net_income": 6898000000,
+    "total_debt": 27203000000,
+    "total_equity": 39741000000,
+    "fcf": 5089000000,
+    "industry": "Chemicals / Commodity Chemicals",
+    "fy": 2025,
+    "shares_outstanding": 460980163,
+    "eps_ttm": 15.4912
+  },
+  "CRWD": {
+    "net_income": -162502000,
+    "total_debt": 745471000,
+    "total_equity": 4472605000,
+    "fcf": 1241490000,
+    "industry": "Software & IT Services / Software",
+    "fy": 2026,
+    "shares_outstanding": 1023934842,
+    "eps_ttm": 0.057
+  },
+  "AMZN": {
+    "net_income": 77670000000,
+    "total_debt": 89295000000,
+    "total_equity": 411065000000,
+    "fcf": 7695000000,
+    "industry": "Diversified Retail / Department Stores",
+    "fy": 2025,
+    "shares_outstanding": 10786313572,
+    "eps_ttm": 12.4326
+  },
+  "SNDK": {
+    "net_income": 11433000000,
+    "total_debt": 0,
+    "total_equity": 15736000000,
+    "fcf": 11494000000,
+    "industry": "Computers, Phones & Household Electronics / Computer Hardware",
+    "fy": 2026,
+    "shares_outstanding": 146419001,
+    "eps_ttm": 73.7613
+  },
+  "SHOP": {
+    "net_income": 1231000000,
+    "total_debt": 0,
+    "total_equity": 13473000000,
+    "fcf": 2007000000,
+    "industry": "Software & IT Services / Online Services",
+    "fy": 2025,
+    "shares_outstanding": 1286643931,
+    "eps_ttm": 1.4829
+  },
+  "TMUS": {
+    "net_income": 10992000000,
+    "total_debt": 92084000000,
+    "total_equity": 59203000000,
+    "fcf": 15427000000,
+    "industry": "Telecommunications Services / Wireless Telecommunications Services",
+    "fy": 2025,
+    "shares_outstanding": 1072671613,
+    "eps_ttm": 9.5621
+  },
+  "PEP": {
+    "net_income": 8240000000,
+    "total_debt": 49182000000,
+    "total_equity": 20547000000,
+    "fcf": 7672000000,
+    "industry": "Beverages / Non-Alcoholic Beverages",
+    "fy": 2025,
+    "shares_outstanding": 1364891558,
+    "eps_ttm": 7.622
+  },
+  "MRVL": {
+    "net_income": 2670100000,
+    "total_debt": 4470600000,
+    "total_equity": 14308400000,
+    "fcf": 1391900000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductors",
+    "fy": 2026,
+    "shares_outstanding": 876900000,
+    "eps_ttm": 3.03
+  },
+  "STX": {
+    "net_income": 3184000000,
+    "total_debt": 3565000000,
+    "total_equity": 2167000000,
+    "fcf": 3105000000,
+    "industry": "Computers, Phones & Household Electronics / Computer Hardware",
+    "fy": 2026,
+    "shares_outstanding": 226644518,
+    "eps_ttm": 13.9039
+  },
+  "GILD": {
+    "net_income": 8510000000,
+    "total_debt": 24936000000,
+    "total_equity": 22618000000,
+    "fcf": 9455000000,
+    "industry": "Pharmaceuticals",
+    "fy": 2025,
+    "shares_outstanding": 1239955155,
+    "eps_ttm": -2.6551
+  },
+  "QCOM": {
+    "net_income": 5541000000,
+    "total_debt": 14811000000,
+    "total_equity": 21206000000,
+    "fcf": 12820000000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductors",
+    "fy": 2025,
+    "shares_outstanding": 1050000000,
+    "eps_ttm": 8.6404
+  },
+  "ADI": {
+    "net_income": 2267342000,
+    "total_debt": 8591705000,
+    "total_equity": 33815755000,
+    "fcf": 4278650000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductors",
+    "fy": 2025,
+    "shares_outstanding": 484565465,
+    "eps_ttm": 8.4269
+  },
+  "WDC": {
+    "net_income": 9424000000,
+    "total_debt": 1052000000,
+    "total_equity": 8864000000,
+    "fcf": 3511000000,
+    "industry": "Computers, Phones & Household Electronics / Computer Hardware",
+    "fy": 2026,
+    "shares_outstanding": 360540944,
+    "eps_ttm": 24.2768
+  },
+  "BKNG": {
+    "net_income": 5404000000,
+    "total_debt": 18742000000,
+    "total_equity": -5578000000,
+    "fcf": 9087000000,
+    "industry": "Hotels & Entertainment Services / Leisure & Recreation",
+    "fy": 2025,
+    "shares_outstanding": 751380500,
+    "eps_ttm": 9.0415
+  },
+  "VRTX": {
+    "net_income": 3953200000,
+    "total_debt": 112200000,
+    "total_equity": 18665800000,
+    "fcf": 3193800000,
+    "industry": "Pharmaceuticals",
+    "fy": 2025,
+    "shares_outstanding": 253460924,
+    "eps_ttm": 17.1867
+  },
+  "ISRG": {
+    "net_income": 2856000000,
+    "total_debt": 0,
+    "total_equity": 17941700000,
+    "fcf": 2490700000,
+    "industry": "Healthcare Equipment & Supplies / Advanced Medical Equipment & Technology",
+    "fy": 2025,
+    "shares_outstanding": 353278038,
+    "eps_ttm": 8.7257
+  },
+  "SBUX": {
+    "net_income": 1856700000,
+    "total_debt": 16074800000,
+    "total_equity": -8089200000,
+    "fcf": 2442000000,
+    "industry": "Hotels & Entertainment Services / Restaurants & Bars",
+    "fy": 2025,
+    "shares_outstanding": 1140000000,
+    "eps_ttm": 1.7344
+  },
+  "PDD": {
+    "net_income": 13780000000,
+    "total_debt": 0,
+    "total_equity": 58224670000,
+    "fcf": 14900509000,
+    "industry": "Software & IT Services / Online Services",
+    "fy": 2025,
+    "note": "converted from CNY at ~7.1",
+    "shares_outstanding": 1423396462,
+    "eps_ttm": 9.1725
+  },
+  "FTNT": {
+    "net_income": 1853400000,
+    "total_debt": 996300000,
+    "total_equity": 1237500000,
+    "fcf": 2225800000,
+    "industry": "Software & IT Services / Software",
+    "fy": 2025,
+    "shares_outstanding": 733713653,
+    "eps_ttm": 2.8383
+  },
+  "ADBE": {
+    "net_income": 7130000000,
+    "total_debt": 6210000000,
+    "total_equity": 11623000000,
+    "fcf": 9852000000,
+    "industry": "Software & IT Services / Software",
+    "fy": 2025,
+    "shares_outstanding": 397500000,
+    "eps_ttm": 17.4742
+  },
+  "ADP": {
+    "net_income": 4413500000,
+    "total_debt": 4965100000,
+    "total_equity": 6031200000,
+    "fcf": 4776100000,
+    "industry": "Professional & Commercial Services / Employment Services",
+    "fy": 2026,
+    "shares_outstanding": 397262737,
+    "eps_ttm": 10.9435
+  },
+  "ABNB": {
+    "net_income": 2511000000,
+    "total_debt": 1999000000,
+    "total_equity": 8199000000,
+    "fcf": 4646000000,
+    "industry": "Software & IT Services / Online Services",
+    "fy": 2025,
+    "shares_outstanding": 598785682,
+    "eps_ttm": 4.398
+  },
+  "APP": {
+    "net_income": 3333751000,
+    "total_debt": 3635640000,
+    "total_equity": 2134671000,
+    "fcf": 4015475000,
+    "industry": "Software & IT Services / Software",
+    "fy": 2025,
+    "shares_outstanding": 334651000,
+    "eps_ttm": 13.0104
+  },
+  "DASH": {
+    "net_income": 932000000,
+    "total_debt": 2724000000,
+    "total_equity": 10046000000,
+    "fcf": 1826000000,
+    "industry": "Software & IT Services / Online Services",
+    "fy": 2025,
+    "shares_outstanding": 433297937,
+    "eps_ttm": 1.9044
+  },
+  "MELI": {
+    "net_income": 1997000000,
+    "total_debt": 9193000000,
+    "total_equity": 6748000000,
+    "fcf": 10773000000,
+    "industry": "Software & IT Services / Online Services",
+    "fy": 2025,
+    "shares_outstanding": 50696802,
+    "eps_ttm": 36.7513
+  },
+  "CEG": {
+    "net_income": 2319000000,
+    "total_debt": 8992000000,
+    "total_equity": 14853000000,
+    "fcf": 1288000000,
+    "industry": "Electric Utilities & IPPs / Electric Utilities",
+    "fy": 2025,
+    "shares_outstanding": 354307379,
+    "eps_ttm": 10.2635
+  },
+  "INTU": {
+    "net_income": 4566000000,
+    "total_debt": 7669000000,
+    "total_equity": 18992000000,
+    "fcf": 8617000000,
+    "industry": "Financial Technology (Fintech) & Infrastructure / Financial Technology (Fintech)",
+    "fy": 2026,
+    "shares_outstanding": 273537000,
+    "eps_ttm": 16.4838
+  },
+  "CMCSA": {
+    "net_income": 19998000000,
+    "total_debt": 98937000000,
+    "total_equity": 97375000000,
+    "fcf": 19235000000,
+    "industry": "Telecommunications Services / Wireless Telecommunications Services",
+    "fy": 2025,
+    "shares_outstanding": 3548636573,
+    "eps_ttm": 3.0881
+  },
+  "CSX": {
+    "net_income": 2889000000,
+    "total_debt": 18873000000,
+    "total_equity": 13160000000,
+    "fcf": 1711000000,
+    "industry": "Freight & Logistics Services / Ground Freight & Logistics",
+    "fy": 2025,
+    "shares_outstanding": 1852474917,
+    "eps_ttm": 1.7304
+  },
+  "CDNS": {
+    "net_income": 1108888000,
+    "total_debt": 2480150000,
+    "total_equity": 5474181000,
+    "fcf": 1586910000,
+    "industry": "Software & IT Services / Software",
+    "fy": 2025,
+    "shares_outstanding": 275393000,
+    "eps_ttm": 5.0263
+  },
+  "MNST": {
+    "net_income": 1905432000,
+    "total_debt": 0,
+    "total_equity": 8254108000,
+    "fcf": 1965902000,
+    "industry": "Beverages / Non-Alcoholic Beverages",
+    "fy": 2025,
+    "shares_outstanding": 1959051764,
+    "eps_ttm": 1.0775
+  },
+  "MAR": {
+    "net_income": 2601000000,
+    "total_debt": 16204000000,
+    "total_equity": -3771000000,
+    "fcf": 2608000000,
+    "industry": "Hotels & Entertainment Services / Hotels, Motels & Cruise Lines",
+    "fy": 2025,
+    "shares_outstanding": 260766288,
+    "eps_ttm": 9.6482
+  },
+  "DDOG": {
+    "net_income": 107741000,
+    "total_debt": 983449000,
+    "total_equity": 3732206000,
+    "fcf": 914717000,
+    "industry": "Software & IT Services / Software",
+    "fy": 2025,
+    "shares_outstanding": 359075024,
+    "eps_ttm": 0.528
+  },
+  "SNPS": {
+    "net_income": 1332220000,
+    "total_debt": 13484515000,
+    "total_equity": 28327602000,
+    "fcf": 1518608000,
+    "industry": "Software & IT Services / Software",
+    "fy": 2025,
+    "note": "FCF approximated as CFO alone; FY2025 capex line appears to bundle Ansys acquisition outflows",
+    "shares_outstanding": 191636646,
+    "eps_ttm": 5.653
+  },
+  "CTAS": {
+    "net_income": 1999968000,
+    "total_debt": 2428073000,
+    "total_equity": 5139887000,
+    "fcf": 1881175000,
+    "industry": "Professional & Commercial Services / Business Support Services",
+    "fy": 2026,
+    "note": "Fiscal year ends May 31",
+    "shares_outstanding": 400169561,
+    "eps_ttm": 4.9081
+  },
+  "LITE": {
+    "net_income": -6935100000,
+    "total_debt": 1637400000,
+    "total_equity": 4643900000,
+    "fcf": 300100000,
+    "industry": "Communications & Networking",
+    "fy": 2026,
+    "note": "Fiscal year ends late June; large net loss from ~$7.74B unusual/impairment charge",
+    "shares_outstanding": 89700000,
+    "eps_ttm": -92.9638
+  },
+  "MDLZ": {
+    "net_income": 2451000000,
+    "total_debt": 21205000000,
+    "total_equity": 25838000000,
+    "fcf": 3235000000,
+    "industry": "Food & Tobacco / Food Processing",
+    "fy": 2025,
+    "shares_outstanding": 1276308057,
+    "eps_ttm": 2.7263
+  },
+  "REGN": {
+    "net_income": 4504900000,
+    "total_debt": 2705900000,
+    "total_equity": 31256900000,
+    "fcf": 3765200000,
+    "industry": "Pharmaceuticals",
+    "fy": 2025,
+    "shares_outstanding": 102954988,
+    "eps_ttm": 40.4486
+  },
+  "ROST": {
+    "net_income": 2145044000,
+    "total_debt": 1517606000,
+    "total_equity": 6187443000,
+    "fcf": 2207608000,
+    "industry": "Specialty Retailers / Apparel & Accessories Retailers",
+    "fy": 2026,
+    "note": "Fiscal year ends late January",
+    "shares_outstanding": 319453110,
+    "eps_ttm": 8.2745
+  },
+  "WBD": {
+    "net_income": 727000000,
+    "total_debt": 33250000000,
+    "total_equity": 35919000000,
+    "fcf": 3088000000,
+    "industry": "Media & Publishing / Broadcasting",
+    "fy": 2025,
+    "shares_outstanding": 2510703314,
+    "eps_ttm": -1.2735
+  },
+  "ORLY": {
+    "net_income": 2538209000,
+    "total_debt": 6016904000,
+    "total_equity": -763352000,
+    "fcf": 1593178000,
+    "industry": "Specialty Retailers / Auto Vehicles, Parts & Service Retailers",
+    "fy": 2025,
+    "shares_outstanding": 808960792,
+    "eps_ttm": 3.1445
+  },
+  "HON": {
+    "net_income": 4729000000,
+    "total_debt": 34580000000,
+    "total_equity": 13904000000,
+    "fcf": 5422000000,
+    "industry": "Consumer Goods Conglomerates",
+    "fy": 2025,
+    "shares_outstanding": 316940010,
+    "eps_ttm": 25.7603
+  },
+  "AEP": {
+    "net_income": 3580000000,
+    "total_debt": 48985000000,
+    "total_equity": 31176000000,
+    "fcf": -1639000000,
+    "industry": "Electric Utilities & IPPs / Electric Utilities",
+    "fy": 2025,
+    "shares_outstanding": 544397352,
+    "eps_ttm": 5.7754
+  },
+  "PCAR": {
+    "net_income": 2375800000,
+    "total_debt": 15637200000,
+    "total_equity": 19264000000,
+    "fcf": 3029200000,
+    "industry": "Machinery, Tools, Heavy Vehicles, Trains & Ships / Heavy Machinery & Vehicles",
+    "fy": 2025,
+    "shares_outstanding": 526364953,
+    "eps_ttm": 4.7503
+  },
+  "BKR": {
+    "net_income": 2588000000,
+    "total_debt": 6087000000,
+    "total_equity": 18834000000,
+    "fcf": 2537000000,
+    "industry": "Oil & Gas Related Equipment and Services / Oil Related Services and Equipment",
+    "fy": 2025,
+    "shares_outstanding": 992674071,
+    "eps_ttm": 3.1119
+  },
+  "MPWR": {
+    "net_income": 621483000,
+    "total_debt": 0,
+    "total_equity": 3531497000,
+    "fcf": 663261000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductors",
+    "fy": 2025,
+    "shares_outstanding": 49143000,
+    "eps_ttm": 16.4313
+  },
+  "NBIS": {
+    "net_income": 82500000,
+    "total_debt": 4127700000,
+    "total_equity": 4594000000,
+    "fcf": -3681200000,
+    "industry": "Professional & Commercial Services / Business Support Services",
+    "fy": 2025,
+    "note": "Net income includes large extraordinary/non-operating items (warrant/investment revaluation); core operating result near breakeven",
+    "shares_outstanding": 271855218,
+    "eps_ttm": -0.3956
+  },
+  "FAST": {
+    "net_income": 1258400000,
+    "total_debt": 125000000,
+    "total_equity": 3943600000,
+    "fcf": 1050600000,
+    "industry": "Machinery, Tools, Heavy Vehicles, Trains & Ships / Industrial Machinery & Equipment",
+    "fy": 2025,
+    "shares_outstanding": 1147497573,
+    "eps_ttm": 1.1751
+  },
+  "NXPI": {
+    "net_income": 2021000000,
+    "total_debt": 12222000000,
+    "total_equity": 10056000000,
+    "fcf": 2283000000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductors",
+    "fy": 2025,
+    "shares_outstanding": 252164174,
+    "eps_ttm": 11.7167
+  },
+  "TER": {
+    "net_income": 554047000,
+    "total_debt": 200000000,
+    "total_equity": 2795752000,
+    "fcf": 450406000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductor Equipment & Testing",
+    "fy": 2025,
+    "shares_outstanding": 156340750,
+    "eps_ttm": 7.2888
+  },
+  "FANG": {
+    "net_income": 1656000000,
+    "total_debt": 14489000000,
+    "total_equity": 36972000000,
+    "fcf": -703000000,
+    "industry": "Oil & Gas / Oil & Gas Exploration and Production",
+    "fy": 2025,
+    "shares_outstanding": 280024353,
+    "eps_ttm": 5.1609
+  },
+  "ADSK": {
+    "net_income": 1124000000,
+    "total_debt": 2483000000,
+    "total_equity": 3045000000,
+    "fcf": 2376000000,
+    "industry": "Software & IT Services / Software",
+    "fy": 2026,
+    "shares_outstanding": 209000000,
+    "eps_ttm": 7.7129
+  },
+  "HONA": {
+    "net_income": 2687000000,
+    "total_debt": 0,
+    "total_equity": 8399000000,
+    "fcf": 3201000000,
+    "industry": "Aerospace & Defense",
+    "fy": 2025,
+    "note": "Recent spinoff from Honeywell (completed 2025); only FY2025 annual report available; total_debt of 0 may not reflect final post-spinoff capital structure",
+    "shares_outstanding": 316952725,
+    "eps_ttm": 2.777
+  },
+  "ALAB": {
+    "net_income": 219134000,
+    "total_debt": 0,
+    "total_equity": 1363634000,
+    "fcf": 281762000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductors",
+    "fy": 2025,
+    "shares_outstanding": 173485104,
+    "eps_ttm": 2.0308
+  },
+  "WDAY": {
+    "net_income": 693000000,
+    "total_debt": 2987000000,
+    "total_equity": 7805000000,
+    "fcf": 2777000000,
+    "industry": "Software & IT Services / Software",
+    "fy": 2026,
+    "shares_outstanding": 241000000,
+    "eps_ttm": 5.1025
+  },
+  "MSTR": {
+    "net_income": -3848152000,
+    "total_debt": 8190155000,
+    "total_equity": 51042972000,
+    "fcf": -22542536000,
+    "industry": "Software & IT Services / Software",
+    "fy": 2025,
+    "note": "Net income includes large unrealized bitcoin fair-value losses (ASU 2023-08); FCF distorted by ~$22.5B of bitcoin purchases classified as investing outflows, not traditional capex",
+    "shares_outstanding": 384225751,
+    "eps_ttm": -97.1761
+  },
+  "AXON": {
+    "net_income": 124656000,
+    "total_debt": 1810722000,
+    "total_equity": 3242658000,
+    "fcf": 75081000,
+    "industry": "Aerospace & Defense",
+    "fy": 2025,
+    "shares_outstanding": 81237415,
+    "eps_ttm": 2.4145
+  },
+  "CCEP": {
+    "net_income": 2097360000,
+    "total_debt": 11549520000,
+    "total_equity": 8461800000,
+    "fcf": 2163240000,
+    "industry": "Beverages / Non-Alcoholic Beverages",
+    "fy": 2025,
+    "note": "Reported in EUR, converted to USD at ~1.08 USD/EUR",
+    "shares_outstanding": 441183947,
+    "eps_ttm": 5.0777
+  },
+  "XEL": {
+    "net_income": 2018000000,
+    "total_debt": 35184000000,
+    "total_equity": 23609000000,
+    "fcf": -6825000000,
+    "industry": "Electric Utilities & IPPs / Electric Utilities",
+    "fy": 2025,
+    "shares_outstanding": 624634306,
+    "eps_ttm": 3.6548
+  },
+  "CRWV": {
+    "net_income": -1167000000,
+    "total_debt": 21627000000,
+    "total_equity": 3335000000,
+    "fcf": -7251000000,
+    "industry": "Software & IT Services / IT Services & Consulting",
+    "fy": 2025,
+    "note": "Recent IPO (Mar 2025); heavily negative FCF from large capex for GPU/data-center buildout",
+    "shares_outstanding": 551536602,
+    "eps_ttm": -3.8006
+  },
+  "TRI": {
+    "net_income": 1502000000,
+    "total_debt": 2372000000,
+    "total_equity": 11914000000,
+    "fcf": 2017000000,
+    "industry": "Professional & Commercial Services / Professional Information Services",
+    "fy": 2025,
+    "shares_outstanding": 433224578,
+    "eps_ttm": 3.7289
+  },
+  "PYPL": {
+    "net_income": 5233000000,
+    "total_debt": 11400000000,
+    "total_equity": 20256000000,
+    "fcf": 5564000000,
+    "industry": "Professional & Commercial Services / Business Support Services",
+    "fy": 2025,
+    "shares_outstanding": 855460874,
+    "eps_ttm": 5.3033
+  },
+  "EXC": {
+    "net_income": 2768000000,
+    "total_debt": 50080000000,
+    "total_equity": 28798000000,
+    "fcf": -2275000000,
+    "industry": "Electric Utilities & IPPs / Electric Utilities",
+    "fy": 2025,
+    "shares_outstanding": 1032253967,
+    "eps_ttm": 2.7299
+  },
+  "PAYX": {
+    "net_income": 1760100000,
+    "total_debt": 4556100000,
+    "total_equity": 3735100000,
+    "fcf": 2279400000,
+    "industry": "Professional & Commercial Services / Employment Services",
+    "fy": 2026,
+    "note": "Fiscal year ends May 31",
+    "shares_outstanding": 355980473,
+    "eps_ttm": 4.8892
+  },
+  "TTWO": {
+    "net_income": -298200000,
+    "total_debt": 2518000000,
+    "total_equity": 3510900000,
+    "fcf": 461500000,
+    "industry": "Software & IT Services / Software",
+    "fy": 2026,
+    "note": "Fiscal year ends March 31",
+    "shares_outstanding": 186980443,
+    "eps_ttm": -1.7316
+  },
+  "KDP": {
+    "net_income": 2079000000,
+    "total_debt": 17090000000,
+    "total_equity": 25516000000,
+    "fcf": 1488000000,
+    "industry": "Beverages / Non-Alcoholic Beverages",
+    "fy": 2025,
+    "shares_outstanding": 1360826038,
+    "eps_ttm": 0.9867
+  },
+  "IDXX": {
+    "net_income": 1059464000,
+    "total_debt": 847837000,
+    "total_equity": 1605383000,
+    "fcf": 1043579000,
+    "industry": "Healthcare Equipment & Supplies / Medical Equipment, Supplies & Distribution",
+    "fy": 2025,
+    "shares_outstanding": 78781116,
+    "eps_ttm": 14.2281
+  },
+  "FER": {
+    "net_income": 959040000,
+    "total_debt": 12791520000,
+    "total_equity": 6380640000,
+    "fcf": 1867320000,
+    "industry": "Construction & Engineering",
+    "fy": 2025,
+    "note": "Reported in EUR, converted to USD at ~1.08 USD/EUR",
+    "shares_outstanding": 720626181,
+    "eps_ttm": 0.9663
+  },
+  "ROP": {
+    "net_income": 1536300000,
+    "total_debt": 9301000000,
+    "total_equity": 19881500000,
+    "fcf": 2435600000,
+    "industry": "Software & IT Services / Software",
+    "fy": 2025,
+    "shares_outstanding": 98900874,
+    "eps_ttm": 24.127
+  },
+  "ODFL": {
+    "net_income": 1023703000,
+    "total_debt": 39995000,
+    "total_equity": 4311057000,
+    "fcf": 955099000,
+    "industry": "Freight & Logistics Services / Ground Freight & Logistics",
+    "fy": 2025,
+    "shares_outstanding": 207356622,
+    "eps_ttm": 5.1962
+  },
+  "MCHP": {
+    "net_income": 230000000,
+    "total_debt": 5496400000,
+    "total_equity": 6432400000,
+    "fcf": 871000000,
+    "industry": "Semiconductors & Semiconductor Equipment / Semiconductors",
+    "fy": 2026,
+    "note": "Fiscal year ends March 31",
+    "shares_outstanding": 543008691,
+    "eps_ttm": 0.6719
+  },
+  "RKLB": {
+    "net_income": -198209000,
+    "total_debt": 169081000,
+    "total_equity": 1721854000,
+    "fcf": -321806000,
+    "industry": "Aerospace & Defense",
+    "fy": 2025,
+    "shares_outstanding": 598459739,
+    "eps_ttm": -0.2795
+  },
+  "DXCM": {
+    "net_income": 836300000,
+    "total_debt": 1294700000,
+    "total_equity": 2746000000,
+    "fcf": 1077200000,
+    "industry": "Healthcare Equipment & Supplies / Medical Equipment, Supplies & Distribution",
+    "fy": 2025,
+    "shares_outstanding": 377360765,
+    "eps_ttm": 2.5205
+  },
+  "GEHC": {
+    "net_income": 2084000000,
+    "total_debt": 10045000000,
+    "total_equity": 10379000000,
+    "fcf": 1505000000,
+    "industry": "Healthcare Equipment & Supplies / Advanced Medical Equipment & Technology",
+    "fy": 2025,
+    "shares_outstanding": 451686252,
+    "eps_ttm": 4.3488
+  },
+  "ALNY": {
+    "net_income": 313747000,
+    "total_debt": 2698193000,
+    "total_equity": 789176000,
+    "fcf": 465383000,
+    "industry": "Pharmaceuticals",
+    "fy": 2025,
+    "shares_outstanding": 133809118,
+    "eps_ttm": 5.8756
+  },
+  "CPRT": {
+    "net_income": 1552449000,
+    "total_debt": 2705000,
+    "total_equity": 9187033000,
+    "fcf": 1230760000,
+    "industry": "Software & IT Services / Online Services",
+    "fy": 2025,
+    "note": "Fiscal year ends July 31",
+    "shares_outstanding": 925811482,
+    "eps_ttm": 1.6051
+  },
+  "KHC": {
+    "net_income": -5846000000,
+    "total_debt": 21219000000,
+    "total_equity": 41664000000,
+    "fcf": 3661000000,
+    "industry": "Food & Tobacco / Food Processing",
+    "fy": 2025,
+    "shares_outstanding": 1185823758,
+    "eps_ttm": -2.8636
+  }
+}
