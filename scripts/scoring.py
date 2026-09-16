@@ -75,6 +75,62 @@ def fetch_bars(symbols, client=None):
     return out
 
 
+def fetch_yahoo_volumes(symbols, lookback_days=40):
+    """Fetch real consolidated daily volume from Yahoo Finance (yfinance) for
+    all symbols. Alpaca's free tier can only query the IEX feed (see
+    fetch_bars above), which reflects trades on a single small exchange -
+    roughly 2-3% of true US equity volume - so last_volume/avg_vol20/
+    rel_volume computed from it alone are unreliable and noisy. This pulls
+    the real consolidated tape's volume instead, used as an override in
+    compute_technicals(). Returns {symbol: {"last_volume": float,
+    "avg_vol20": float}}; omits a symbol on any per-symbol failure, and
+    returns {} (never raises) if the whole fetch fails, so callers can
+    always fall back to the Alpaca-derived volume.
+    """
+    out = {}
+    try:
+        import yfinance as yf
+    except ImportError:
+        print("yfinance not installed - skipping Yahoo volume backfill")
+        return out
+
+    try:
+        data = yf.download(
+            tickers=symbols,
+            period="2mo",
+            interval="1d",
+            group_by="ticker",
+            auto_adjust=False,
+            threads=True,
+            progress=False,
+        )
+    except Exception as e:
+        print(f"Yahoo Finance volume fetch failed entirely, keeping Alpaca-only volume: {e}")
+        return out
+
+    if data is None or data.empty:
+        print("Yahoo Finance returned no data, keeping Alpaca-only volume")
+        return out
+
+    for sym in symbols:
+        try:
+            vols = data[sym]["Volume"].dropna() if len(symbols) > 1 else data["Volume"].dropna()
+            if len(vols) < 2:
+                continue
+            last_vol = float(vols.iloc[-1])
+            window = vols.iloc[-21:-1] if len(vols) >= 21 else vols.iloc[:-1]
+            if len(window) == 0 or last_vol <= 0:
+                continue
+            avg_vol20 = float(window.mean())
+            if avg_vol20 <= 0:
+                continue
+            out[sym] = {"last_volume": last_vol, "avg_vol20": avg_vol20}
+        except Exception:
+            continue  # missing/delisted on Yahoo - fall back to Alpaca for this symbol
+    print(f"Yahoo Finance volume backfill: {len(out)}/{len(symbols)} symbols")
+    return out
+
+
 def rsi(closes, period=14):
     if len(closes) < period + 1:
         return None
@@ -129,8 +185,17 @@ def historical_volatility(closes, window=60):
     return daily_sd * math.sqrt(252)
 
 
-def compute_technicals(all_bars):
-    """{symbol: [bars]} -> {symbol: technicals dict}"""
+def compute_technicals(all_bars, yahoo_volumes=None):
+    """{symbol: [bars]} -> {symbol: technicals dict}
+
+    yahoo_volumes: optional {symbol: {"last_volume", "avg_vol20"}} from
+    fetch_yahoo_volumes(), used in place of the Alpaca/IEX-derived volume
+    figures when available for that symbol (see fetch_yahoo_volumes
+    docstring for why). Falls back to Alpaca's own bars per-symbol whenever
+    Yahoo has no data for that symbol, so this never removes coverage.
+    """
+    yahoo_volumes = yahoo_volumes or {}
+    yahoo_hits = 0
     results = {}
     for sym, bars in all_bars.items():
         closes = [b["close"] for b in bars]
@@ -147,8 +212,15 @@ def compute_technicals(all_bars):
         sma50 = sma(closes, 50)
         sma200 = sma(closes, 200) if len(closes) >= 200 else None
         bb_mid, bb_upper, bb_lower, pct_b = bollinger(closes, 20, 2)
-        avg_vol20 = mean(vols[-20:]) if len(vols) >= 20 else None
-        last_vol = vols[-1]
+
+        yv = yahoo_volumes.get(sym)
+        if yv:
+            avg_vol20 = yv["avg_vol20"]
+            last_vol = yv["last_volume"]
+            yahoo_hits += 1
+        else:
+            avg_vol20 = mean(vols[-20:]) if len(vols) >= 20 else None
+            last_vol = vols[-1]
         rel_vol = (last_vol / avg_vol20) if avg_vol20 else None
         chg_5d = (closes[-1] / closes[-6] - 1) * 100 if len(closes) > 6 else None
         chg_20d = (closes[-1] / closes[-21] - 1) * 100 if len(closes) > 21 else None
@@ -173,11 +245,14 @@ def compute_technicals(all_bars):
             "avg_vol20": round(avg_vol20) if avg_vol20 else None,
             "last_volume": round(last_vol),
             "rel_volume": round(rel_vol, 2) if rel_vol else None,
+            "volume_source": "yahoo" if yv else "alpaca_iex",
             "chg_5d_pct": round(chg_5d, 2) if chg_5d is not None else None,
             "chg_20d_pct": round(chg_20d, 2) if chg_20d is not None else None,
             "hv_annual": round(hv_annual, 4) if hv_annual is not None else None,
             "n_bars": len(closes),
         }
+    print(f"Volume source: {yahoo_hits}/{len(results)} symbols used Yahoo Finance consolidated volume "
+          f"({len(results) - yahoo_hits} fell back to Alpaca/IEX-only volume)")
     return results
 
 
@@ -295,6 +370,7 @@ def build_records(technicals, fundamentals):
         rec["avg_vol20"] = t.get("avg_vol20")
         rec["last_volume"] = t.get("last_volume")
         rec["rel_volume"] = t.get("rel_volume")
+        rec["volume_source"] = t.get("volume_source")
         rec["chg_5d_pct"] = t.get("chg_5d_pct")
         rec["chg_20d_pct"] = t.get("chg_20d_pct")
         rec["hv_annual"] = t.get("hv_annual")
