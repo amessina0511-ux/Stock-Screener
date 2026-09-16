@@ -5,21 +5,21 @@
       {
         "symbol": "BKR",
         "industry": "Oil & Gas Related Equipment and Services / Oil Related Services and Equipment",
-        "net_score": 63.0,
+        "net_score": 73.0,
         "top_reasons": [
-          "RSI approaching oversold (30.1)",
+          "RSI oversold (28.5)",
           "price at/below lower Bollinger Band"
         ],
-        "entry_price": 56.81,
-        "stop_price": 52.27,
-        "risk_per_share": 4.54,
-        "pct_risk": 7.99,
-        "target1_price": 61.76,
-        "pct_gain_target1": 8.71,
-        "risk_reward_target1": 1.09,
-        "target2_price": 66.79,
-        "pct_gain_target2": 17.57,
-        "risk_reward_target2": 2.2,
+        "entry_price": 56.33,
+        "stop_price": 51.82,
+        "risk_per_share": 4.51,
+        "pct_risk": 8.01,
+        "target1_price": 61.73,
+        "pct_gain_target1": 9.59,
+        "risk_reward_target1": 1.2,
+        "target2_price": 66.86,
+        "pct_gain_target2": 18.69,
+        "risk_reward_target2": 2.33,
         "budget_tiers": {
           "$50": {
             "shares": 0,
@@ -30,32 +30,88 @@
           },
           "$100": {
             "shares": 1,
-            "dollars_deployed": 56.81,
-            "risk_if_stopped_out": 4.54,
-            "gain_at_target1": 4.95,
-            "gain_at_target2": 9.98
+            "dollars_deployed": 56.33,
+            "risk_if_stopped_out": 4.51,
+            "gain_at_target1": 5.4,
+            "gain_at_target2": 10.53
           },
           "$500": {
             "shares": 8,
-            "dollars_deployed": 454.48,
-            "risk_if_stopped_out": 36.32,
-            "gain_at_target1": 39.6,
-            "gain_at_target2": 79.84
+            "dollars_deployed": 450.64,
+            "risk_if_stopped_out": 36.08,
+            "gain_at_target1": 43.2,
+            "gain_at_target2": 84.24
           },
           "$1000": {
             "shares": 17,
-            "dollars_deployed": 965.77,
-            "risk_if_stopped_out": 77.18,
-            "gain_at_target1": 84.15,
-            "gain_at_target2": 169.66
+            "dollars_deployed": 957.61,
+            "risk_if_stopped_out": 76.67,
+            "gain_at_target1": 91.8,
+            "gain_at_target2": 179.01
           }
         },
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 56.81,
+        "best_price": 56.33,
         "best_move_pct": 0.0,
-        "current_price": 56.81,
+        "current_price": 56.33,
+        "last_checked": "2026-09-16"
+      },
+      {
+        "symbol": "PYPL",
+        "industry": "Professional & Commercial Services / Business Support Services",
+        "net_score": 53.0,
+        "top_reasons": [
+          "RSI approaching oversold (40.0)",
+          "strong uptrend (20>50>200 SMA)"
+        ],
+        "entry_price": 52.73,
+        "stop_price": 48.51,
+        "risk_per_share": 4.22,
+        "pct_risk": 8.0,
+        "target1_price": 56.52,
+        "pct_gain_target1": 7.19,
+        "risk_reward_target1": 0.9,
+        "target2_price": 64.46,
+        "pct_gain_target2": 22.25,
+        "risk_reward_target2": 2.78,
+        "budget_tiers": {
+          "$50": {
+            "shares": 0,
+            "dollars_deployed": 0.0,
+            "risk_if_stopped_out": 0.0,
+            "gain_at_target1": 0.0,
+            "gain_at_target2": 0.0
+          },
+          "$100": {
+            "shares": 1,
+            "dollars_deployed": 52.73,
+            "risk_if_stopped_out": 4.22,
+            "gain_at_target1": 3.79,
+            "gain_at_target2": 11.73
+          },
+          "$500": {
+            "shares": 9,
+            "dollars_deployed": 474.57,
+            "risk_if_stopped_out": 37.98,
+            "gain_at_target1": 34.11,
+            "gain_at_target2": 105.57
+          },
+          "$1000": {
+            "shares": 18,
+            "dollars_deployed": 949.14,
+            "risk_if_stopped_out": 75.96,
+            "gain_at_target1": 68.22,
+            "gain_at_target2": 211.14
+          }
+        },
+        "context_note": null,
+        "resolved": false,
+        "outcome": "open",
+        "best_price": 52.73,
+        "best_move_pct": 0.0,
+        "current_price": 52.73,
         "last_checked": "2026-09-16"
       },
       {
@@ -63,19 +119,19 @@
         "industry": "Healthcare Equipment & Supplies / Advanced Medical Equipment & Technology",
         "net_score": 48.0,
         "top_reasons": [
-          "RSI oversold (28.9)",
+          "RSI oversold (28.2)",
           "price near lower Bollinger Band"
         ],
-        "entry_price": 63.8,
-        "stop_price": 58.7,
-        "risk_per_share": 5.1,
-        "pct_risk": 7.99,
-        "target1_price": 69.61,
-        "pct_gain_target1": 9.11,
-        "risk_reward_target1": 1.14,
-        "target2_price": 77.66,
-        "pct_gain_target2": 21.72,
-        "risk_reward_target2": 2.72,
+        "entry_price": 63.51,
+        "stop_price": 58.43,
+        "risk_per_share": 5.08,
+        "pct_risk": 8.0,
+        "target1_price": 69.59,
+        "pct_gain_target1": 9.57,
+        "risk_reward_target1": 1.2,
+        "target2_price": 77.69,
+        "pct_gain_target2": 22.33,
+        "risk_reward_target2": 2.79,
         "budget_tiers": {
           "$50": {
             "shares": 0,
@@ -86,88 +142,32 @@
           },
           "$100": {
             "shares": 1,
-            "dollars_deployed": 63.8,
-            "risk_if_stopped_out": 5.1,
-            "gain_at_target1": 5.81,
-            "gain_at_target2": 13.86
+            "dollars_deployed": 63.51,
+            "risk_if_stopped_out": 5.08,
+            "gain_at_target1": 6.08,
+            "gain_at_target2": 14.18
           },
           "$500": {
             "shares": 7,
-            "dollars_deployed": 446.6,
-            "risk_if_stopped_out": 35.7,
-            "gain_at_target1": 40.67,
-            "gain_at_target2": 97.02
+            "dollars_deployed": 444.57,
+            "risk_if_stopped_out": 35.56,
+            "gain_at_target1": 42.56,
+            "gain_at_target2": 99.26
           },
           "$1000": {
             "shares": 15,
-            "dollars_deployed": 957.0,
-            "risk_if_stopped_out": 76.5,
-            "gain_at_target1": 87.15,
-            "gain_at_target2": 207.9
+            "dollars_deployed": 952.65,
+            "risk_if_stopped_out": 76.2,
+            "gain_at_target1": 91.2,
+            "gain_at_target2": 212.7
           }
         },
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 63.8,
+        "best_price": 63.51,
         "best_move_pct": 0.0,
-        "current_price": 63.8,
-        "last_checked": "2026-09-16"
-      },
-      {
-        "symbol": "PYPL",
-        "industry": "Professional & Commercial Services / Business Support Services",
-        "net_score": 43.0,
-        "top_reasons": [
-          "strong uptrend (20>50>200 SMA)",
-          "oversold momentum, 20d chg -11.5%"
-        ],
-        "entry_price": 53.45,
-        "stop_price": 49.17,
-        "risk_per_share": 4.28,
-        "pct_risk": 8.01,
-        "target1_price": 56.56,
-        "pct_gain_target1": 5.82,
-        "risk_reward_target1": 0.73,
-        "target2_price": 64.43,
-        "pct_gain_target2": 20.54,
-        "risk_reward_target2": 2.57,
-        "budget_tiers": {
-          "$50": {
-            "shares": 0,
-            "dollars_deployed": 0.0,
-            "risk_if_stopped_out": 0.0,
-            "gain_at_target1": 0.0,
-            "gain_at_target2": 0.0
-          },
-          "$100": {
-            "shares": 1,
-            "dollars_deployed": 53.45,
-            "risk_if_stopped_out": 4.28,
-            "gain_at_target1": 3.11,
-            "gain_at_target2": 10.98
-          },
-          "$500": {
-            "shares": 9,
-            "dollars_deployed": 481.05,
-            "risk_if_stopped_out": 38.52,
-            "gain_at_target1": 27.99,
-            "gain_at_target2": 98.82
-          },
-          "$1000": {
-            "shares": 18,
-            "dollars_deployed": 962.1,
-            "risk_if_stopped_out": 77.04,
-            "gain_at_target1": 55.98,
-            "gain_at_target2": 197.64
-          }
-        },
-        "context_note": null,
-        "resolved": false,
-        "outcome": "open",
-        "best_price": 53.45,
-        "best_move_pct": 0.0,
-        "current_price": 53.45,
+        "current_price": 63.51,
         "last_checked": "2026-09-16"
       },
       {
@@ -175,75 +175,75 @@
         "industry": "Telecommunications Services / Wireless Telecommunications Services",
         "net_score": 37.0,
         "top_reasons": [
-          "RSI approaching oversold (37.2)",
+          "RSI approaching oversold (34.9)",
           "price at/below lower Bollinger Band"
         ],
-        "entry_price": 24.14,
-        "stop_price": 22.21,
-        "risk_per_share": 1.93,
+        "entry_price": 23.75,
+        "stop_price": 21.85,
+        "risk_per_share": 1.9,
         "pct_risk": 8.0,
-        "target1_price": 26.11,
-        "pct_gain_target1": 8.16,
-        "risk_reward_target1": 1.02,
-        "target2_price": 28.03,
-        "pct_gain_target2": 16.11,
-        "risk_reward_target2": 2.02,
+        "target1_price": 26.09,
+        "pct_gain_target1": 9.85,
+        "risk_reward_target1": 1.23,
+        "target2_price": 28.1,
+        "pct_gain_target2": 18.32,
+        "risk_reward_target2": 2.29,
         "budget_tiers": {
           "$50": {
             "shares": 2,
-            "dollars_deployed": 48.28,
-            "risk_if_stopped_out": 3.86,
-            "gain_at_target1": 3.94,
-            "gain_at_target2": 7.78
+            "dollars_deployed": 47.5,
+            "risk_if_stopped_out": 3.8,
+            "gain_at_target1": 4.68,
+            "gain_at_target2": 8.7
           },
           "$100": {
             "shares": 4,
-            "dollars_deployed": 96.56,
-            "risk_if_stopped_out": 7.72,
-            "gain_at_target1": 7.88,
-            "gain_at_target2": 15.56
+            "dollars_deployed": 95.0,
+            "risk_if_stopped_out": 7.6,
+            "gain_at_target1": 9.36,
+            "gain_at_target2": 17.4
           },
           "$500": {
-            "shares": 20,
-            "dollars_deployed": 482.8,
-            "risk_if_stopped_out": 38.6,
-            "gain_at_target1": 39.4,
-            "gain_at_target2": 77.8
+            "shares": 21,
+            "dollars_deployed": 498.75,
+            "risk_if_stopped_out": 39.9,
+            "gain_at_target1": 49.14,
+            "gain_at_target2": 91.35
           },
           "$1000": {
-            "shares": 41,
-            "dollars_deployed": 989.74,
-            "risk_if_stopped_out": 79.13,
-            "gain_at_target1": 80.77,
-            "gain_at_target2": 159.49
+            "shares": 42,
+            "dollars_deployed": 997.5,
+            "risk_if_stopped_out": 79.8,
+            "gain_at_target1": 98.28,
+            "gain_at_target2": 182.7
           }
         },
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 24.14,
+        "best_price": 23.75,
         "best_move_pct": 0.0,
-        "current_price": 24.14,
+        "current_price": 23.75,
         "last_checked": "2026-09-16"
       },
       {
-        "symbol": "PDD",
-        "industry": "Software & IT Services / Online Services",
-        "net_score": 36.0,
+        "symbol": "DXCM",
+        "industry": "Healthcare Equipment & Supplies / Medical Equipment, Supplies & Distribution",
+        "net_score": 25.0,
         "top_reasons": [
-          "RSI approaching oversold (34.0)",
-          "price near lower Bollinger Band"
+          "strong uptrend (20>50>200 SMA)",
+          "low leverage (D/E 0.47)"
         ],
-        "entry_price": 78.08,
-        "stop_price": 71.83,
-        "risk_per_share": 6.25,
+        "entry_price": 87.35,
+        "stop_price": 80.36,
+        "risk_per_share": 6.99,
         "pct_risk": 8.0,
-        "target1_price": 83.14,
-        "pct_gain_target1": 6.48,
-        "risk_reward_target1": 0.81,
-        "target2_price": 91.31,
-        "pct_gain_target2": 16.94,
-        "risk_reward_target2": 2.12,
+        "target1_price": 88.23,
+        "pct_gain_target1": 1.01,
+        "risk_reward_target1": 0.13,
+        "target2_price": 92.57,
+        "pct_gain_target2": 5.98,
+        "risk_reward_target2": 0.75,
         "budget_tiers": {
           "$50": {
             "shares": 0,
@@ -254,32 +254,32 @@
           },
           "$100": {
             "shares": 1,
-            "dollars_deployed": 78.08,
-            "risk_if_stopped_out": 6.25,
-            "gain_at_target1": 5.06,
-            "gain_at_target2": 13.23
+            "dollars_deployed": 87.35,
+            "risk_if_stopped_out": 6.99,
+            "gain_at_target1": 0.88,
+            "gain_at_target2": 5.22
           },
           "$500": {
-            "shares": 6,
-            "dollars_deployed": 468.48,
-            "risk_if_stopped_out": 37.5,
-            "gain_at_target1": 30.36,
-            "gain_at_target2": 79.38
+            "shares": 5,
+            "dollars_deployed": 436.75,
+            "risk_if_stopped_out": 34.95,
+            "gain_at_target1": 4.4,
+            "gain_at_target2": 26.1
           },
           "$1000": {
-            "shares": 12,
-            "dollars_deployed": 936.96,
-            "risk_if_stopped_out": 75.0,
-            "gain_at_target1": 60.72,
-            "gain_at_target2": 158.76
+            "shares": 11,
+            "dollars_deployed": 960.85,
+            "risk_if_stopped_out": 76.89,
+            "gain_at_target1": 9.68,
+            "gain_at_target2": 57.42
           }
         },
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 78.08,
+        "best_price": 87.35,
         "best_move_pct": 0.0,
-        "current_price": 78.08,
+        "current_price": 87.35,
         "last_checked": "2026-09-16"
       }
     ]
@@ -338,9 +338,9 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 57.18,
-        "best_move_pct": 0.81,
-        "current_price": 56.81,
+        "best_price": 57.2,
+        "best_move_pct": 0.85,
+        "current_price": 56.33,
         "last_checked": "2026-09-16"
       },
       {
@@ -396,7 +396,7 @@
         "outcome": "open_profitable",
         "best_price": 64.46,
         "best_move_pct": 0.59,
-        "current_price": 63.8,
+        "current_price": 63.51,
         "last_checked": "2026-09-16"
       },
       {
@@ -452,7 +452,7 @@
         "outcome": "open",
         "best_price": 53.82,
         "best_move_pct": 0.0,
-        "current_price": 53.45,
+        "current_price": 52.73,
         "last_checked": "2026-09-16"
       },
       {
@@ -506,9 +506,9 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 78.1,
-        "best_move_pct": 0.01,
-        "current_price": 78.08,
+        "best_price": 79.02,
+        "best_move_pct": 1.19,
+        "current_price": 78.76,
         "last_checked": "2026-09-16"
       },
       {
@@ -564,7 +564,7 @@
         "outcome": "open_profitable",
         "best_price": 24.46,
         "best_move_pct": 0.2,
-        "current_price": 24.14,
+        "current_price": 23.75,
         "last_checked": "2026-09-16"
       }
     ]
