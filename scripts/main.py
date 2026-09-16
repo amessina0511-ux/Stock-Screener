@@ -37,7 +37,13 @@ def main():
     all_bars = scoring.fetch_bars(universe, client=client)
     print(f"Fetched bars for {len(all_bars)}/{len(universe)} symbols")
 
-    technicals = scoring.compute_technicals(all_bars)
+    try:
+        yahoo_volumes = scoring.fetch_yahoo_volumes(list(all_bars.keys()))
+    except Exception as e:
+        print(f"WARNING - Yahoo volume backfill failed, continuing with Alpaca/IEX-only volume: {e}")
+        yahoo_volumes = {}
+
+    technicals = scoring.compute_technicals(all_bars, yahoo_volumes=yahoo_volumes)
     records = scoring.build_records(technicals, fundamentals)
     print(f"Scored {len(records)} symbols")
 
