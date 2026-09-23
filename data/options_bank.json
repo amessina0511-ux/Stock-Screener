@@ -1,5 +1,155 @@
 [
   {
+    "date": "2026-09-23",
+    "picks": [
+      {
+        "symbol": "ABNB",
+        "classification": "Long Candidate",
+        "industry": "Software & IT Services / Online Services",
+        "price": 154.41,
+        "net_score": 73.0,
+        "option_type": "call",
+        "strike": 155.0,
+        "expiration": "2026-10-16",
+        "dte_days": 23,
+        "premium": 8.41,
+        "cost_per_contract": 841.27,
+        "breakeven_price": 163.41,
+        "pct_move_to_breakeven": 5.83,
+        "target_price": 175.75,
+        "pct_move_to_target": 13.82,
+        "est_reward_per_contract_at_target": 1233.75,
+        "top_reasons": [
+          "RSI oversold (29.6)",
+          "price at/below lower Bollinger Band"
+        ],
+        "context_note": null,
+        "resolved": false,
+        "outcome": "open",
+        "best_price": 154.41,
+        "best_move_pct": 0.0,
+        "current_price": 154.41,
+        "last_checked": "2026-09-23"
+      },
+      {
+        "symbol": "PAYX",
+        "classification": "Long Candidate",
+        "industry": "Professional & Commercial Services / Employment Services",
+        "price": 106.5,
+        "net_score": 73.0,
+        "option_type": "call",
+        "strike": 105.0,
+        "expiration": "2026-10-16",
+        "dte_days": 23,
+        "premium": 5.24,
+        "cost_per_contract": 523.67,
+        "breakeven_price": 110.24,
+        "pct_move_to_breakeven": 3.51,
+        "target_price": 117.37,
+        "pct_move_to_target": 10.2,
+        "est_reward_per_contract_at_target": 712.92,
+        "top_reasons": [
+          "RSI oversold (26.6)",
+          "price at/below lower Bollinger Band"
+        ],
+        "context_note": null,
+        "resolved": false,
+        "outcome": "open",
+        "best_price": 106.5,
+        "best_move_pct": 0.0,
+        "current_price": 106.5,
+        "last_checked": "2026-09-23"
+      },
+      {
+        "symbol": "ROP",
+        "classification": "Long Candidate",
+        "industry": "Software & IT Services / Software",
+        "price": 365.32,
+        "net_score": 56.0,
+        "option_type": "call",
+        "strike": 365.0,
+        "expiration": "2026-10-16",
+        "dte_days": 23,
+        "premium": 15.71,
+        "cost_per_contract": 1570.61,
+        "breakeven_price": 380.71,
+        "pct_move_to_breakeven": 4.21,
+        "target_price": 403.2,
+        "pct_move_to_target": 10.37,
+        "est_reward_per_contract_at_target": 2249.15,
+        "top_reasons": [
+          "RSI approaching oversold (32.2)",
+          "price near lower Bollinger Band"
+        ],
+        "context_note": null,
+        "resolved": false,
+        "outcome": "open",
+        "best_price": 365.32,
+        "best_move_pct": 0.0,
+        "current_price": 365.32,
+        "last_checked": "2026-09-23"
+      },
+      {
+        "symbol": "PCAR",
+        "classification": "Long Candidate",
+        "industry": "Machinery, Tools, Heavy Vehicles, Trains & Ships / Heavy Machinery & Vehicles",
+        "price": 112.84,
+        "net_score": 53.0,
+        "option_type": "call",
+        "strike": 115.0,
+        "expiration": "2026-10-16",
+        "dte_days": 23,
+        "premium": 2.57,
+        "cost_per_contract": 256.59,
+        "breakeven_price": 117.57,
+        "pct_move_to_breakeven": 4.19,
+        "target_price": 121.34,
+        "pct_move_to_target": 7.54,
+        "est_reward_per_contract_at_target": 377.86,
+        "top_reasons": [
+          "RSI oversold (22.0)",
+          "price at/below lower Bollinger Band"
+        ],
+        "context_note": null,
+        "resolved": false,
+        "outcome": "open",
+        "best_price": 112.84,
+        "best_move_pct": 0.0,
+        "current_price": 112.84,
+        "last_checked": "2026-09-23"
+      },
+      {
+        "symbol": "MSTR",
+        "classification": "Short Candidate",
+        "industry": "Software & IT Services / Software",
+        "price": 163.97,
+        "net_score": -52.0,
+        "option_type": "put",
+        "strike": 165.0,
+        "expiration": "2026-10-16",
+        "dte_days": 23,
+        "premium": 16.8,
+        "cost_per_contract": 1679.52,
+        "breakeven_price": 148.2,
+        "pct_move_to_breakeven": 9.61,
+        "target_price": 122.61,
+        "pct_move_to_target": -25.22,
+        "est_reward_per_contract_at_target": 2559.13,
+        "top_reasons": [
+          "RSI approaching overbought (67.6)",
+          "price at/above upper Bollinger Band"
+        ],
+        "context_note": null,
+        "resolved": false,
+        "outcome": "open",
+        "best_price": 163.97,
+        "best_move_pct": 0.0,
+        "current_price": 163.97,
+        "last_checked": "2026-09-23"
+      }
+    ]
+  },
+  {
     "date": "2026-09-22",
     "picks": [
       {
@@ -26,10 +176,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 22.43,
-        "best_move_pct": 0.0,
-        "current_price": 22.43,
-        "last_checked": "2026-09-22"
+        "best_price": 22.84,
+        "best_move_pct": 1.83,
+        "current_price": 22.78,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "MSTR",
@@ -55,10 +205,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 167.31,
-        "best_move_pct": 0.0,
-        "current_price": 167.31,
-        "last_checked": "2026-09-22"
+        "best_price": 161.91,
+        "best_move_pct": -3.23,
+        "current_price": 163.97,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "PCAR",
@@ -86,8 +236,8 @@
         "outcome": "open",
         "best_price": 113.85,
         "best_move_pct": 0.0,
-        "current_price": 113.85,
-        "last_checked": "2026-09-22"
+        "current_price": 112.84,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "ROP",
@@ -113,10 +263,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 363.91,
-        "best_move_pct": 0.0,
-        "current_price": 363.91,
-        "last_checked": "2026-09-22"
+        "best_price": 366.64,
+        "best_move_pct": 0.75,
+        "current_price": 365.32,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "FANG",
@@ -142,10 +292,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 184.5,
-        "best_move_pct": 0.0,
-        "current_price": 184.5,
-        "last_checked": "2026-09-22"
+        "best_price": 187.81,
+        "best_move_pct": 1.79,
+        "current_price": 187.12,
+        "last_checked": "2026-09-23"
       }
     ]
   },
@@ -178,8 +328,8 @@
         "outcome": "open",
         "best_price": 368.99,
         "best_move_pct": 0.97,
-        "current_price": 363.91,
-        "last_checked": "2026-09-22"
+        "current_price": 365.32,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "MSTR",
@@ -205,10 +355,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 167.3,
-        "best_move_pct": -0.68,
-        "current_price": 167.31,
-        "last_checked": "2026-09-22"
+        "best_price": 161.91,
+        "best_move_pct": -3.88,
+        "current_price": 163.97,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "PCAR",
@@ -236,8 +386,8 @@
         "outcome": "open",
         "best_price": 115.74,
         "best_move_pct": 0.91,
-        "current_price": 113.85,
-        "last_checked": "2026-09-22"
+        "current_price": 112.84,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "CSX",
@@ -263,10 +413,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 46.68,
-        "best_move_pct": 1.52,
-        "current_price": 46.59,
-        "last_checked": "2026-09-22"
+        "best_price": 47.28,
+        "best_move_pct": 2.83,
+        "current_price": 47.05,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "INTC",
@@ -292,10 +442,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 120.55,
-        "best_move_pct": -0.97,
-        "current_price": 123.86,
-        "last_checked": "2026-09-22"
+        "best_price": 119.47,
+        "best_move_pct": -1.86,
+        "current_price": 119.93,
+        "last_checked": "2026-09-23"
       }
     ]
   },
@@ -328,8 +478,8 @@
         "outcome": "open",
         "best_price": 23.11,
         "best_move_pct": 1.72,
-        "current_price": 22.43,
-        "last_checked": "2026-09-22"
+        "current_price": 22.78,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "MSTR",
@@ -357,8 +507,8 @@
         "outcome": "open",
         "best_price": 153.91,
         "best_move_pct": 0.0,
-        "current_price": 167.31,
-        "last_checked": "2026-09-22"
+        "current_price": 163.97,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "ROP",
@@ -386,8 +536,8 @@
         "outcome": "open",
         "best_price": 374.07,
         "best_move_pct": 0.35,
-        "current_price": 363.91,
-        "last_checked": "2026-09-22"
+        "current_price": 365.32,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "TRI",
@@ -413,10 +563,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 96.09,
-        "best_move_pct": 1.83,
-        "current_price": 95.7,
-        "last_checked": "2026-09-22"
+        "best_price": 98.42,
+        "best_move_pct": 4.3,
+        "current_price": 98.01,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "ODFL",
@@ -442,10 +592,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 177.74,
-        "best_move_pct": 2.76,
-        "current_price": 177.37,
-        "last_checked": "2026-09-22"
+        "best_price": 178.12,
+        "best_move_pct": 2.98,
+        "current_price": 177.82,
+        "last_checked": "2026-09-23"
       }
     ]
   },
@@ -478,8 +628,8 @@
         "outcome": "open",
         "best_price": 23.11,
         "best_move_pct": 1.72,
-        "current_price": 22.43,
-        "last_checked": "2026-09-22"
+        "current_price": 22.78,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "MSTR",
@@ -507,8 +657,8 @@
         "outcome": "open_profitable",
         "best_price": 136.49,
         "best_move_pct": -11.32,
-        "current_price": 167.31,
-        "last_checked": "2026-09-22"
+        "current_price": 163.97,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "ROP",
@@ -536,8 +686,8 @@
         "outcome": "open",
         "best_price": 375.07,
         "best_move_pct": 0.62,
-        "current_price": 363.91,
-        "last_checked": "2026-09-22"
+        "current_price": 365.32,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "TRI",
@@ -565,8 +715,8 @@
         "outcome": "open",
         "best_price": 99.49,
         "best_move_pct": 5.44,
-        "current_price": 95.7,
-        "last_checked": "2026-09-22"
+        "current_price": 98.01,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "ODFL",
@@ -592,10 +742,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 177.74,
-        "best_move_pct": 2.76,
-        "current_price": 177.37,
-        "last_checked": "2026-09-22"
+        "best_price": 178.12,
+        "best_move_pct": 2.98,
+        "current_price": 177.82,
+        "last_checked": "2026-09-23"
       }
     ]
   },
@@ -628,8 +778,8 @@
         "outcome": "open",
         "best_price": 58.2,
         "best_move_pct": 2.9,
-        "current_price": 57.28,
-        "last_checked": "2026-09-22"
+        "current_price": 57.7,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "CMCSA",
@@ -657,8 +807,8 @@
         "outcome": "open",
         "best_price": 23.11,
         "best_move_pct": 0.78,
-        "current_price": 22.43,
-        "last_checked": "2026-09-22"
+        "current_price": 22.78,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "ROP",
@@ -686,8 +836,8 @@
         "outcome": "open",
         "best_price": 375.07,
         "best_move_pct": 0.09,
-        "current_price": 363.91,
-        "last_checked": "2026-09-22"
+        "current_price": 365.32,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "ABNB",
@@ -715,8 +865,8 @@
         "outcome": "open",
         "best_price": 169.08,
         "best_move_pct": 1.92,
-        "current_price": 161.79,
-        "last_checked": "2026-09-22"
+        "current_price": 154.41,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "ODFL",
@@ -742,10 +892,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 177.74,
-        "best_move_pct": 1.53,
-        "current_price": 177.37,
-        "last_checked": "2026-09-22"
+        "best_price": 178.12,
+        "best_move_pct": 1.74,
+        "current_price": 177.82,
+        "last_checked": "2026-09-23"
       }
     ]
   },
@@ -778,8 +928,8 @@
         "outcome": "open",
         "best_price": 58.2,
         "best_move_pct": 3.32,
-        "current_price": 57.28,
-        "last_checked": "2026-09-22"
+        "current_price": 57.7,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "ROP",
@@ -807,8 +957,8 @@
         "outcome": "open",
         "best_price": 376.69,
         "best_move_pct": 0.22,
-        "current_price": 363.91,
-        "last_checked": "2026-09-22"
+        "current_price": 365.32,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "PYPL",
@@ -836,8 +986,8 @@
         "outcome": "open",
         "best_price": 55.12,
         "best_move_pct": 4.53,
-        "current_price": 52.88,
-        "last_checked": "2026-09-22"
+        "current_price": 52.11,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "ODFL",
@@ -863,10 +1013,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 177.93,
-        "best_move_pct": 2.03,
-        "current_price": 177.37,
-        "last_checked": "2026-09-22"
+        "best_price": 178.12,
+        "best_move_pct": 2.14,
+        "current_price": 177.82,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "AMZN",
@@ -894,8 +1044,8 @@
         "outcome": "open",
         "best_price": 259.48,
         "best_move_pct": 5.48,
-        "current_price": 254.99,
-        "last_checked": "2026-09-22"
+        "current_price": 249.12,
+        "last_checked": "2026-09-23"
       }
     ]
   },
@@ -928,8 +1078,8 @@
         "outcome": "open",
         "best_price": 58.2,
         "best_move_pct": 2.61,
-        "current_price": 57.28,
-        "last_checked": "2026-09-22"
+        "current_price": 57.7,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "GEHC",
@@ -957,8 +1107,8 @@
         "outcome": "open",
         "best_price": 67.08,
         "best_move_pct": 4.68,
-        "current_price": 66.26,
-        "last_checked": "2026-09-22"
+        "current_price": 65.84,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "ODFL",
@@ -986,8 +1136,8 @@
         "outcome": "open",
         "best_price": 180.96,
         "best_move_pct": 0.0,
-        "current_price": 177.37,
-        "last_checked": "2026-09-22"
+        "current_price": 177.82,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "PYPL",
@@ -1015,8 +1165,8 @@
         "outcome": "open",
         "best_price": 55.12,
         "best_move_pct": 2.42,
-        "current_price": 52.88,
-        "last_checked": "2026-09-22"
+        "current_price": 52.11,
+        "last_checked": "2026-09-23"
       },
       {
         "symbol": "ROP",
@@ -1044,8 +1194,8 @@
         "outcome": "open",
         "best_price": 383.93,
         "best_move_pct": 0.0,
-        "current_price": 363.91,
-        "last_checked": "2026-09-22"
+        "current_price": 365.32,
+        "last_checked": "2026-09-23"
       }
     ]
   }
