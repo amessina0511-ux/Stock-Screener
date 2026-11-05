@@ -1,5 +1,290 @@
 [
   {
+    "date": "2026-11-05",
+    "picks": [
+      {
+        "symbol": "BKR",
+        "industry": "Oil & Gas Related Equipment and Services / Oil Related Services and Equipment",
+        "net_score": 35.0,
+        "top_reasons": [
+          "RSI approaching oversold (33.1)",
+          "price at/below lower Bollinger Band"
+        ],
+        "entry_price": 49.88,
+        "stop_price": 45.89,
+        "risk_per_share": 3.99,
+        "pct_risk": 8.0,
+        "target1_price": 55.16,
+        "pct_gain_target1": 10.59,
+        "risk_reward_target1": 1.32,
+        "target2_price": 58.77,
+        "pct_gain_target2": 17.82,
+        "risk_reward_target2": 2.23,
+        "budget_tiers": {
+          "$50": {
+            "shares": 1,
+            "dollars_deployed": 49.88,
+            "risk_if_stopped_out": 3.99,
+            "gain_at_target1": 5.28,
+            "gain_at_target2": 8.89
+          },
+          "$100": {
+            "shares": 2,
+            "dollars_deployed": 99.76,
+            "risk_if_stopped_out": 7.98,
+            "gain_at_target1": 10.56,
+            "gain_at_target2": 17.78
+          },
+          "$500": {
+            "shares": 10,
+            "dollars_deployed": 498.8,
+            "risk_if_stopped_out": 39.9,
+            "gain_at_target1": 52.8,
+            "gain_at_target2": 88.9
+          },
+          "$1000": {
+            "shares": 20,
+            "dollars_deployed": 997.6,
+            "risk_if_stopped_out": 79.8,
+            "gain_at_target1": 105.6,
+            "gain_at_target2": 177.8
+          }
+        },
+        "context_note": null,
+        "resolved": false,
+        "outcome": "open",
+        "best_price": 49.88,
+        "best_move_pct": 0.0,
+        "current_price": 49.88,
+        "last_checked": "2026-11-05"
+      },
+      {
+        "symbol": "INTC",
+        "industry": "Semiconductors & Semiconductor Equipment / Semiconductors",
+        "net_score": 32.0,
+        "top_reasons": [
+          "RSI oversold (22.7)",
+          "price at/below lower Bollinger Band"
+        ],
+        "entry_price": 58.28,
+        "stop_price": 53.62,
+        "risk_per_share": 4.66,
+        "pct_risk": 8.0,
+        "target1_price": 88.23,
+        "pct_gain_target1": 51.39,
+        "risk_reward_target1": 6.43,
+        "target2_price": 117.54,
+        "pct_gain_target2": 101.68,
+        "risk_reward_target2": 12.72,
+        "budget_tiers": {
+          "$50": {
+            "shares": 0,
+            "dollars_deployed": 0.0,
+            "risk_if_stopped_out": 0.0,
+            "gain_at_target1": 0.0,
+            "gain_at_target2": 0.0
+          },
+          "$100": {
+            "shares": 1,
+            "dollars_deployed": 58.28,
+            "risk_if_stopped_out": 4.66,
+            "gain_at_target1": 29.95,
+            "gain_at_target2": 59.26
+          },
+          "$500": {
+            "shares": 8,
+            "dollars_deployed": 466.24,
+            "risk_if_stopped_out": 37.28,
+            "gain_at_target1": 239.6,
+            "gain_at_target2": 474.08
+          },
+          "$1000": {
+            "shares": 17,
+            "dollars_deployed": 990.76,
+            "risk_if_stopped_out": 79.22,
+            "gain_at_target1": 509.15,
+            "gain_at_target2": 1007.42
+          }
+        },
+        "context_note": null,
+        "resolved": false,
+        "outcome": "open",
+        "best_price": 58.28,
+        "best_move_pct": 0.0,
+        "current_price": 58.28,
+        "last_checked": "2026-11-05"
+      },
+      {
+        "symbol": "PDD",
+        "industry": "Software & IT Services / Online Services",
+        "net_score": 17.0,
+        "top_reasons": [
+          "low PE (8.9)",
+          "low leverage (D/E 0.00)"
+        ],
+        "entry_price": 82.13,
+        "stop_price": 75.56,
+        "risk_per_share": 6.57,
+        "pct_risk": 8.0,
+        "target1_price": 86.24,
+        "pct_gain_target1": 5.0,
+        "risk_reward_target1": 0.63,
+        "target2_price": 83.27,
+        "pct_gain_target2": 1.39,
+        "risk_reward_target2": 0.17,
+        "budget_tiers": {
+          "$50": {
+            "shares": 0,
+            "dollars_deployed": 0.0,
+            "risk_if_stopped_out": 0.0,
+            "gain_at_target1": 0.0,
+            "gain_at_target2": 0.0
+          },
+          "$100": {
+            "shares": 1,
+            "dollars_deployed": 82.13,
+            "risk_if_stopped_out": 6.57,
+            "gain_at_target1": 4.11,
+            "gain_at_target2": 1.14
+          },
+          "$500": {
+            "shares": 6,
+            "dollars_deployed": 492.78,
+            "risk_if_stopped_out": 39.42,
+            "gain_at_target1": 24.66,
+            "gain_at_target2": 6.84
+          },
+          "$1000": {
+            "shares": 12,
+            "dollars_deployed": 985.56,
+            "risk_if_stopped_out": 78.84,
+            "gain_at_target1": 49.32,
+            "gain_at_target2": 13.68
+          }
+        },
+        "context_note": null,
+        "resolved": false,
+        "outcome": "open",
+        "best_price": 82.13,
+        "best_move_pct": 0.0,
+        "current_price": 82.13,
+        "last_checked": "2026-11-05"
+      },
+      {
+        "symbol": "PYPL",
+        "industry": "Professional & Commercial Services / Business Support Services",
+        "net_score": 10.0,
+        "top_reasons": [
+          "strong uptrend (20>50>200 SMA)",
+          "low PE (11.3)"
+        ],
+        "entry_price": 60.16,
+        "stop_price": 54.45,
+        "risk_per_share": 5.71,
+        "pct_risk": 9.49,
+        "target1_price": 63.17,
+        "pct_gain_target1": 5.0,
+        "risk_reward_target1": 0.53,
+        "target2_price": 68.2,
+        "pct_gain_target2": 13.36,
+        "risk_reward_target2": 1.41,
+        "budget_tiers": {
+          "$50": {
+            "shares": 0,
+            "dollars_deployed": 0.0,
+            "risk_if_stopped_out": 0.0,
+            "gain_at_target1": 0.0,
+            "gain_at_target2": 0.0
+          },
+          "$100": {
+            "shares": 1,
+            "dollars_deployed": 60.16,
+            "risk_if_stopped_out": 5.71,
+            "gain_at_target1": 3.01,
+            "gain_at_target2": 8.04
+          },
+          "$500": {
+            "shares": 8,
+            "dollars_deployed": 481.28,
+            "risk_if_stopped_out": 45.68,
+            "gain_at_target1": 24.08,
+            "gain_at_target2": 64.32
+          },
+          "$1000": {
+            "shares": 16,
+            "dollars_deployed": 962.56,
+            "risk_if_stopped_out": 91.36,
+            "gain_at_target1": 48.16,
+            "gain_at_target2": 128.64
+          }
+        },
+        "context_note": null,
+        "resolved": false,
+        "outcome": "open",
+        "best_price": 60.16,
+        "best_move_pct": 0.0,
+        "current_price": 60.16,
+        "last_checked": "2026-11-05"
+      },
+      {
+        "symbol": "DDOG",
+        "industry": "Software & IT Services / Software",
+        "net_score": 68.0,
+        "top_reasons": [
+          "RSI oversold (28.7)",
+          "price at/below lower Bollinger Band"
+        ],
+        "entry_price": 188.75,
+        "stop_price": 173.65,
+        "risk_per_share": 15.1,
+        "pct_risk": 8.0,
+        "target1_price": 260.16,
+        "pct_gain_target1": 37.83,
+        "risk_reward_target1": 4.73,
+        "target2_price": 299.27,
+        "pct_gain_target2": 58.55,
+        "risk_reward_target2": 7.32,
+        "budget_tiers": {
+          "$50": {
+            "shares": 0,
+            "dollars_deployed": 0.0,
+            "risk_if_stopped_out": 0.0,
+            "gain_at_target1": 0.0,
+            "gain_at_target2": 0.0
+          },
+          "$100": {
+            "shares": 0,
+            "dollars_deployed": 0.0,
+            "risk_if_stopped_out": 0.0,
+            "gain_at_target1": 0.0,
+            "gain_at_target2": 0.0
+          },
+          "$500": {
+            "shares": 2,
+            "dollars_deployed": 377.5,
+            "risk_if_stopped_out": 30.2,
+            "gain_at_target1": 142.82,
+            "gain_at_target2": 221.04
+          },
+          "$1000": {
+            "shares": 5,
+            "dollars_deployed": 943.75,
+            "risk_if_stopped_out": 75.5,
+            "gain_at_target1": 357.05,
+            "gain_at_target2": 552.6
+          }
+        },
+        "context_note": null,
+        "resolved": false,
+        "outcome": "open",
+        "best_price": 188.75,
+        "best_move_pct": 0.0,
+        "current_price": 188.75,
+        "last_checked": "2026-11-05"
+      }
+    ]
+  },
+  {
     "date": "2026-11-04",
     "picks": [
       {
@@ -55,8 +340,8 @@
         "outcome": "open",
         "best_price": 60.5,
         "best_move_pct": 0.0,
-        "current_price": 60.5,
-        "last_checked": "2026-11-04"
+        "current_price": 58.28,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "BKR",
@@ -108,11 +393,11 @@
         },
         "context_note": null,
         "resolved": false,
-        "outcome": "open",
-        "best_price": 52.79,
-        "best_move_pct": 0.0,
-        "current_price": 52.79,
-        "last_checked": "2026-11-04"
+        "outcome": "open_profitable",
+        "best_price": 52.91,
+        "best_move_pct": 0.23,
+        "current_price": 49.88,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "FAST",
@@ -164,11 +449,11 @@
         },
         "context_note": null,
         "resolved": false,
-        "outcome": "open",
-        "best_price": 52.34,
-        "best_move_pct": 0.0,
-        "current_price": 52.34,
-        "last_checked": "2026-11-04"
+        "outcome": "open_profitable",
+        "best_price": 53.85,
+        "best_move_pct": 2.88,
+        "current_price": 53.2,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "KDP",
@@ -219,12 +504,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
-        "best_price": 34.72,
-        "best_move_pct": 0.0,
-        "current_price": 34.72,
-        "last_checked": "2026-11-04"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 37.31,
+        "best_move_pct": 7.46,
+        "current_price": 36.79,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       },
       {
         "symbol": "PYPL",
@@ -276,11 +562,11 @@
         },
         "context_note": null,
         "resolved": false,
-        "outcome": "open",
-        "best_price": 58.2,
-        "best_move_pct": 0.0,
-        "current_price": 58.2,
-        "last_checked": "2026-11-04"
+        "outcome": "open_profitable",
+        "best_price": 60.87,
+        "best_move_pct": 4.59,
+        "current_price": 60.16,
+        "last_checked": "2026-11-05"
       }
     ]
   },
@@ -340,8 +626,8 @@
         "outcome": "open_profitable",
         "best_price": 62.59,
         "best_move_pct": 4.4,
-        "current_price": 60.5,
-        "last_checked": "2026-11-04"
+        "current_price": 58.28,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "FAST",
@@ -394,10 +680,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 52.68,
-        "best_move_pct": 0.25,
-        "current_price": 52.34,
-        "last_checked": "2026-11-04"
+        "best_price": 53.85,
+        "best_move_pct": 2.47,
+        "current_price": 53.2,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "CSX",
@@ -449,11 +735,11 @@
         },
         "context_note": null,
         "resolved": false,
-        "outcome": "open",
-        "best_price": 51.64,
-        "best_move_pct": 0.0,
-        "current_price": 50.7,
-        "last_checked": "2026-11-04"
+        "outcome": "open_profitable",
+        "best_price": 52.32,
+        "best_move_pct": 1.32,
+        "current_price": 52.09,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "BKR",
@@ -508,8 +794,8 @@
         "outcome": "open_profitable",
         "best_price": 54.16,
         "best_move_pct": 2.07,
-        "current_price": 52.79,
-        "last_checked": "2026-11-04"
+        "current_price": 49.88,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "PDD",
@@ -562,10 +848,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 82.18,
-        "best_move_pct": 0.61,
-        "current_price": 80.15,
-        "last_checked": "2026-11-04"
+        "best_price": 84.27,
+        "best_move_pct": 3.17,
+        "current_price": 82.13,
+        "last_checked": "2026-11-05"
       }
     ]
   },
@@ -678,12 +964,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 59.05,
-        "best_move_pct": 3.56,
-        "current_price": 58.2,
-        "last_checked": "2026-11-04"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 60.87,
+        "best_move_pct": 6.75,
+        "current_price": 60.16,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       },
       {
         "symbol": "FAST",
@@ -736,10 +1023,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 53.28,
-        "best_move_pct": 2.64,
-        "current_price": 52.34,
-        "last_checked": "2026-11-04"
+        "best_price": 53.85,
+        "best_move_pct": 3.74,
+        "current_price": 53.2,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "PDD",
@@ -847,12 +1134,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "stopped_out",
         "best_price": 136.02,
         "best_move_pct": 0.0,
-        "current_price": 128.1,
-        "last_checked": "2026-11-04"
+        "current_price": 129.38,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       }
     ]
   },
@@ -908,12 +1196,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 59.05,
-        "best_move_pct": 3.65,
-        "current_price": 58.2,
-        "last_checked": "2026-11-04"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 60.87,
+        "best_move_pct": 6.85,
+        "current_price": 60.16,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       },
       {
         "symbol": "FAST",
@@ -966,10 +1255,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 53.29,
-        "best_move_pct": 1.39,
-        "current_price": 52.34,
-        "last_checked": "2026-11-04"
+        "best_price": 53.85,
+        "best_move_pct": 2.45,
+        "current_price": 53.2,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "PDD",
@@ -1136,10 +1425,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 285.2,
-        "best_move_pct": 1.04,
-        "current_price": 278.26,
-        "last_checked": "2026-11-04"
+        "best_price": 294.39,
+        "best_move_pct": 4.3,
+        "current_price": 287.39,
+        "last_checked": "2026-11-05"
       }
     ]
   },
@@ -1195,12 +1484,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 59.05,
-        "best_move_pct": 4.44,
-        "current_price": 58.2,
-        "last_checked": "2026-11-04"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 60.87,
+        "best_move_pct": 7.66,
+        "current_price": 60.16,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       },
       {
         "symbol": "DXCM",
@@ -1310,10 +1600,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 53.29,
-        "best_move_pct": 3.54,
-        "current_price": 52.34,
-        "last_checked": "2026-11-04"
+        "best_price": 53.85,
+        "best_move_pct": 4.62,
+        "current_price": 53.2,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "NFLX",
@@ -1366,10 +1656,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 63.47,
-        "best_move_pct": 2.37,
-        "current_price": 63.38,
-        "last_checked": "2026-11-04"
+        "best_price": 66.78,
+        "best_move_pct": 7.71,
+        "current_price": 66.4,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "PDD",
@@ -1598,10 +1888,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 63.47,
-        "best_move_pct": 1.54,
-        "current_price": 63.38,
-        "last_checked": "2026-11-04"
+        "best_price": 66.78,
+        "best_move_pct": 6.83,
+        "current_price": 66.4,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "FAST",
@@ -1654,10 +1944,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 53.29,
-        "best_move_pct": 3.38,
-        "current_price": 52.34,
-        "last_checked": "2026-11-04"
+        "best_price": 53.85,
+        "best_move_pct": 4.46,
+        "current_price": 53.2,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "PDD",
@@ -1828,11 +2118,11 @@
         },
         "context_note": null,
         "resolved": false,
-        "outcome": "open",
-        "best_price": 63.9,
-        "best_move_pct": 0.0,
-        "current_price": 63.38,
-        "last_checked": "2026-11-04"
+        "outcome": "open_profitable",
+        "best_price": 66.78,
+        "best_move_pct": 4.51,
+        "current_price": 66.4,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "INTC",
@@ -1999,10 +2289,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 634.67,
-        "best_move_pct": 0.67,
-        "current_price": 620.89,
-        "last_checked": "2026-11-04"
+        "best_price": 643.0,
+        "best_move_pct": 1.99,
+        "current_price": 629.89,
+        "last_checked": "2026-11-05"
       }
     ]
   },
@@ -2115,12 +2405,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 59.05,
-        "best_move_pct": 3.6,
-        "current_price": 58.2,
-        "last_checked": "2026-11-04"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 60.87,
+        "best_move_pct": 6.79,
+        "current_price": 60.16,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       },
       {
         "symbol": "FAST",
@@ -2173,10 +2464,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 53.29,
-        "best_move_pct": 2.64,
-        "current_price": 52.34,
-        "last_checked": "2026-11-04"
+        "best_price": 53.85,
+        "best_move_pct": 3.72,
+        "current_price": 53.2,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "INTC",
@@ -2346,12 +2637,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 85.19,
-        "best_move_pct": 6.14,
-        "current_price": 82.97,
-        "last_checked": "2026-11-04"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 88.92,
+        "best_move_pct": 10.79,
+        "current_price": 88.47,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       },
       {
         "symbol": "INTC",
@@ -2463,8 +2755,8 @@
         "outcome": "open_profitable",
         "best_price": 67.79,
         "best_move_pct": 4.21,
-        "current_price": 63.38,
-        "last_checked": "2026-11-04"
+        "current_price": 66.4,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "PDD",
@@ -2572,12 +2864,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 59.05,
-        "best_move_pct": 3.23,
-        "current_price": 58.2,
-        "last_checked": "2026-11-04"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 60.87,
+        "best_move_pct": 6.42,
+        "current_price": 60.16,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       }
     ]
   },
@@ -2692,10 +2985,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 53.29,
-        "best_move_pct": 3.16,
-        "current_price": 52.34,
-        "last_checked": "2026-11-04"
+        "best_price": 53.85,
+        "best_move_pct": 4.24,
+        "current_price": 53.2,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "RKLB",
@@ -2750,8 +3043,8 @@
         "outcome": "open_profitable",
         "best_price": 61.13,
         "best_move_pct": 20.12,
-        "current_price": 54.47,
-        "last_checked": "2026-11-04"
+        "current_price": 52.34,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "PDD",
@@ -2804,10 +3097,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 83.14,
-        "best_move_pct": 1.84,
-        "current_price": 80.15,
-        "last_checked": "2026-11-04"
+        "best_price": 84.27,
+        "best_move_pct": 3.22,
+        "current_price": 82.13,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "PYPL",
@@ -2858,12 +3151,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 59.05,
-        "best_move_pct": 3.36,
-        "current_price": 58.2,
-        "last_checked": "2026-11-04"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 60.87,
+        "best_move_pct": 6.55,
+        "current_price": 60.16,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       }
     ]
   },
@@ -2976,12 +3270,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 53.29,
-        "best_move_pct": 4.45,
-        "current_price": 52.34,
-        "last_checked": "2026-11-04"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 53.85,
+        "best_move_pct": 5.55,
+        "current_price": 53.2,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       },
       {
         "symbol": "PYPL",
@@ -3032,12 +3327,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 59.05,
-        "best_move_pct": 4.51,
-        "current_price": 58.2,
-        "last_checked": "2026-11-04"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 60.87,
+        "best_move_pct": 7.73,
+        "current_price": 60.16,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       },
       {
         "symbol": "RKLB",
@@ -3092,8 +3388,8 @@
         "outcome": "open_profitable",
         "best_price": 61.13,
         "best_move_pct": 18.93,
-        "current_price": 54.47,
-        "last_checked": "2026-11-04"
+        "current_price": 52.34,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "FER",
@@ -3263,12 +3559,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 53.29,
-        "best_move_pct": 4.45,
-        "current_price": 52.34,
-        "last_checked": "2026-11-04"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 53.85,
+        "best_move_pct": 5.55,
+        "current_price": 53.2,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       },
       {
         "symbol": "PYPL",
@@ -3319,12 +3616,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 59.05,
-        "best_move_pct": 4.14,
-        "current_price": 58.2,
-        "last_checked": "2026-11-04"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 60.87,
+        "best_move_pct": 7.35,
+        "current_price": 60.16,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       },
       {
         "symbol": "RKLB",
@@ -3379,8 +3677,8 @@
         "outcome": "open_profitable",
         "best_price": 61.13,
         "best_move_pct": 20.24,
-        "current_price": 54.47,
-        "last_checked": "2026-11-04"
+        "current_price": 52.34,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "FER",
@@ -4305,8 +4603,8 @@
         "outcome": "open_profitable",
         "best_price": 185.53,
         "best_move_pct": 6.38,
-        "current_price": 164.46,
-        "last_checked": "2026-11-04"
+        "current_price": 173.73,
+        "last_checked": "2026-11-05"
       }
     ]
   },
@@ -4537,8 +4835,8 @@
         "outcome": "open_profitable",
         "best_price": 163.11,
         "best_move_pct": 9.79,
-        "current_price": 154.35,
-        "last_checked": "2026-11-04"
+        "current_price": 159.11,
+        "last_checked": "2026-11-05"
       },
       {
         "symbol": "PCAR",
@@ -4593,8 +4891,8 @@
         "outcome": "open_profitable",
         "best_price": 112.64,
         "best_move_pct": 4.28,
-        "current_price": 102.0,
-        "last_checked": "2026-11-04"
+        "current_price": 106.16,
+        "last_checked": "2026-11-05"
       }
     ]
   },
@@ -6737,12 +7035,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 24.04,
-        "best_move_pct": 11.3,
-        "current_price": 23.68,
-        "last_checked": "2026-11-04"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 25.07,
+        "best_move_pct": 16.06,
+        "current_price": 24.85,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       },
       {
         "symbol": "CPRT",
@@ -7083,12 +7382,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 24.04,
-        "best_move_pct": 10.22,
-        "current_price": 23.68,
-        "last_checked": "2026-11-04"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 25.07,
+        "best_move_pct": 14.95,
+        "current_price": 24.85,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       },
       {
         "symbol": "CPRT",
@@ -7258,12 +7558,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 24.04,
-        "best_move_pct": 9.67,
-        "current_price": 23.68,
-        "last_checked": "2026-11-04"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 25.07,
+        "best_move_pct": 14.37,
+        "current_price": 24.85,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       },
       {
         "symbol": "MDLZ",
@@ -7547,12 +7848,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 24.04,
-        "best_move_pct": 8.58,
-        "current_price": 23.68,
-        "last_checked": "2026-11-04"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 25.07,
+        "best_move_pct": 13.23,
+        "current_price": 24.85,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       },
       {
         "symbol": "MNST",
@@ -9286,12 +9588,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "stopped_out",
         "best_price": 59.09,
         "best_move_pct": 4.47,
-        "current_price": 52.79,
-        "last_checked": "2026-11-04"
+        "current_price": 49.88,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       },
       {
         "symbol": "CMCSA",
@@ -9575,12 +9878,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "stopped_out",
         "best_price": 59.09,
         "best_move_pct": 4.9,
-        "current_price": 52.79,
-        "last_checked": "2026-11-04"
+        "current_price": 49.88,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       },
       {
         "symbol": "PYPL",
@@ -9864,12 +10168,13 @@
           }
         },
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "stopped_out",
         "best_price": 59.09,
         "best_move_pct": 4.18,
-        "current_price": 52.79,
-        "last_checked": "2026-11-04"
+        "current_price": 49.88,
+        "last_checked": "2026-11-05",
+        "resolved_date": "2026-11-05"
       },
       {
         "symbol": "GEHC",
