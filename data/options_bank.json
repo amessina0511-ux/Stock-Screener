@@ -1,5 +1,155 @@
 [
   {
+    "date": "2026-11-21",
+    "picks": [
+      {
+        "symbol": "SNDK",
+        "classification": "Long Candidate",
+        "industry": "Computers, Phones & Household Electronics / Computer Hardware",
+        "price": 79.25,
+        "net_score": 73.0,
+        "option_type": "call",
+        "strike": 80.0,
+        "expiration": "2026-12-18",
+        "dte_days": 27,
+        "premium": 8.16,
+        "cost_per_contract": 815.99,
+        "breakeven_price": 88.16,
+        "pct_move_to_breakeven": 11.24,
+        "target_price": 100.34,
+        "pct_move_to_target": 26.61,
+        "est_reward_per_contract_at_target": 1217.54,
+        "top_reasons": [
+          "RSI oversold (15.6)",
+          "price at/below lower Bollinger Band"
+        ],
+        "context_note": null,
+        "resolved": false,
+        "outcome": "open",
+        "best_price": 79.25,
+        "best_move_pct": 0.0,
+        "current_price": 79.25,
+        "last_checked": "2026-11-21"
+      },
+      {
+        "symbol": "PYPL",
+        "classification": "Long Candidate",
+        "industry": "Professional & Commercial Services / Business Support Services",
+        "price": 53.31,
+        "net_score": 70.0,
+        "option_type": "call",
+        "strike": 52.5,
+        "expiration": "2026-12-18",
+        "dte_days": 27,
+        "premium": 3.33,
+        "cost_per_contract": 333.49,
+        "breakeven_price": 55.83,
+        "pct_move_to_breakeven": 4.74,
+        "target_price": 60.46,
+        "pct_move_to_target": 13.42,
+        "est_reward_per_contract_at_target": 462.96,
+        "top_reasons": [
+          "RSI approaching oversold (34.2)",
+          "price at/below lower Bollinger Band"
+        ],
+        "context_note": null,
+        "resolved": false,
+        "outcome": "open",
+        "best_price": 53.31,
+        "best_move_pct": 0.0,
+        "current_price": 53.31,
+        "last_checked": "2026-11-21"
+      },
+      {
+        "symbol": "ADI",
+        "classification": "Long Candidate",
+        "industry": "Semiconductors & Semiconductor Equipment / Semiconductors",
+        "price": 346.55,
+        "net_score": 68.0,
+        "option_type": "call",
+        "strike": 345.0,
+        "expiration": "2026-12-18",
+        "dte_days": 27,
+        "premium": 22.97,
+        "cost_per_contract": 2297.28,
+        "breakeven_price": 367.97,
+        "pct_move_to_breakeven": 6.18,
+        "target_price": 401.11,
+        "pct_move_to_target": 15.74,
+        "est_reward_per_contract_at_target": 3313.91,
+        "top_reasons": [
+          "RSI approaching oversold (33.6)",
+          "price at/below lower Bollinger Band"
+        ],
+        "context_note": null,
+        "resolved": false,
+        "outcome": "open",
+        "best_price": 346.55,
+        "best_move_pct": 0.0,
+        "current_price": 346.55,
+        "last_checked": "2026-11-21"
+      },
+      {
+        "symbol": "WDAY",
+        "classification": "Long Candidate",
+        "industry": "Software & IT Services / Software",
+        "price": 174.63,
+        "net_score": 68.0,
+        "option_type": "call",
+        "strike": 175.0,
+        "expiration": "2026-12-18",
+        "dte_days": 27,
+        "premium": 9.05,
+        "cost_per_contract": 904.74,
+        "breakeven_price": 184.05,
+        "pct_move_to_breakeven": 5.39,
+        "target_price": 197.15,
+        "pct_move_to_target": 12.9,
+        "est_reward_per_contract_at_target": 1310.13,
+        "top_reasons": [
+          "RSI approaching oversold (33.4)",
+          "price at/below lower Bollinger Band"
+        ],
+        "context_note": null,
+        "resolved": false,
+        "outcome": "open",
+        "best_price": 174.63,
+        "best_move_pct": 0.0,
+        "current_price": 174.63,
+        "last_checked": "2026-11-21"
+      },
+      {
+        "symbol": "NVDA",
+        "classification": "Long Candidate",
+        "industry": "Semiconductors & Semiconductor Equipment / Semiconductors",
+        "price": 125.65,
+        "net_score": 63.0,
+        "option_type": "call",
+        "strike": 125.0,
+        "expiration": "2026-12-18",
+        "dte_days": 27,
+        "premium": 8.55,
+        "cost_per_contract": 855.39,
+        "breakeven_price": 133.55,
+        "pct_move_to_breakeven": 6.29,
+        "target_price": 145.89,
+        "pct_move_to_target": 16.11,
+        "est_reward_per_contract_at_target": 1233.82,
+        "top_reasons": [
+          "RSI oversold (15.1)",
+          "price at/below lower Bollinger Band"
+        ],
+        "context_note": null,
+        "resolved": false,
+        "outcome": "open",
+        "best_price": 125.65,
+        "best_move_pct": 0.0,
+        "current_price": 125.65,
+        "last_checked": "2026-11-21"
+      }
+    ]
+  },
+  {
     "date": "2026-11-20",
     "picks": [
       {
@@ -26,10 +176,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 173.32,
-        "best_move_pct": 0.0,
-        "current_price": 173.32,
-        "last_checked": "2026-11-20"
+        "best_price": 181.48,
+        "best_move_pct": 4.71,
+        "current_price": 174.63,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "TRI",
@@ -55,10 +205,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 100.58,
-        "best_move_pct": 0.0,
-        "current_price": 100.58,
-        "last_checked": "2026-11-20"
+        "best_price": 105.23,
+        "best_move_pct": 4.62,
+        "current_price": 101.6,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "NVDA",
@@ -86,8 +236,8 @@
         "outcome": "open",
         "best_price": 145.99,
         "best_move_pct": 0.0,
-        "current_price": 145.99,
-        "last_checked": "2026-11-20"
+        "current_price": 125.65,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "INTU",
@@ -115,8 +265,8 @@
         "outcome": "open",
         "best_price": 309.89,
         "best_move_pct": 0.0,
-        "current_price": 309.89,
-        "last_checked": "2026-11-20"
+        "current_price": 270.29,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "MSFT",
@@ -142,10 +292,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 498.45,
-        "best_move_pct": 0.0,
-        "current_price": 498.45,
-        "last_checked": "2026-11-20"
+        "best_price": 503.74,
+        "best_move_pct": 1.06,
+        "current_price": 485.34,
+        "last_checked": "2026-11-21"
       }
     ]
   },
@@ -176,10 +326,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 178.72,
-        "best_move_pct": 0.76,
-        "current_price": 173.32,
-        "last_checked": "2026-11-20"
+        "best_price": 181.48,
+        "best_move_pct": 2.32,
+        "current_price": 174.63,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "NVDA",
@@ -207,8 +357,8 @@
         "outcome": "open",
         "best_price": 158.11,
         "best_move_pct": 4.81,
-        "current_price": 145.99,
-        "last_checked": "2026-11-20"
+        "current_price": 125.65,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "ADBE",
@@ -236,8 +386,8 @@
         "outcome": "open",
         "best_price": 229.65,
         "best_move_pct": 1.53,
-        "current_price": 221.71,
-        "last_checked": "2026-11-20"
+        "current_price": 217.81,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "SHOP",
@@ -265,8 +415,8 @@
         "outcome": "open",
         "best_price": 141.66,
         "best_move_pct": 1.63,
-        "current_price": 131.96,
-        "last_checked": "2026-11-20"
+        "current_price": 123.75,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "INTU",
@@ -294,8 +444,8 @@
         "outcome": "open",
         "best_price": 317.59,
         "best_move_pct": 1.4,
-        "current_price": 309.89,
-        "last_checked": "2026-11-20"
+        "current_price": 270.29,
+        "last_checked": "2026-11-21"
       }
     ]
   },
@@ -328,8 +478,8 @@
         "outcome": "open",
         "best_price": 182.72,
         "best_move_pct": 0.0,
-        "current_price": 173.32,
-        "last_checked": "2026-11-20"
+        "current_price": 174.63,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "NVDA",
@@ -357,8 +507,8 @@
         "outcome": "open",
         "best_price": 159.68,
         "best_move_pct": 2.69,
-        "current_price": 145.99,
-        "last_checked": "2026-11-20"
+        "current_price": 125.65,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "ROST",
@@ -386,8 +536,8 @@
         "outcome": "open_profitable",
         "best_price": 231.03,
         "best_move_pct": 4.82,
-        "current_price": 220.06,
-        "last_checked": "2026-11-20"
+        "current_price": 213.53,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "TRI",
@@ -413,10 +563,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open",
-        "best_price": 105.08,
-        "best_move_pct": 0.9,
-        "current_price": 100.58,
-        "last_checked": "2026-11-20"
+        "best_price": 105.23,
+        "best_move_pct": 1.05,
+        "current_price": 101.6,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "DDOG",
@@ -444,8 +594,8 @@
         "outcome": "open_profitable",
         "best_price": 182.27,
         "best_move_pct": 10.4,
-        "current_price": 166.45,
-        "last_checked": "2026-11-20"
+        "current_price": 157.51,
+        "last_checked": "2026-11-21"
       }
     ]
   },
@@ -478,8 +628,8 @@
         "outcome": "open",
         "best_price": 159.68,
         "best_move_pct": 2.26,
-        "current_price": 145.99,
-        "last_checked": "2026-11-20"
+        "current_price": 125.65,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "ROST",
@@ -507,8 +657,8 @@
         "outcome": "open",
         "best_price": 231.03,
         "best_move_pct": 3.57,
-        "current_price": 220.06,
-        "last_checked": "2026-11-20"
+        "current_price": 213.53,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "FER",
@@ -534,10 +684,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 59.01,
-        "best_move_pct": -4.47,
-        "current_price": 59.01,
-        "last_checked": "2026-11-20"
+        "best_price": 57.12,
+        "best_move_pct": -7.53,
+        "current_price": 57.39,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "CRWV",
@@ -562,11 +712,11 @@
         ],
         "context_note": null,
         "resolved": false,
-        "outcome": "open",
-        "best_price": 44.77,
-        "best_move_pct": -10.23,
-        "current_price": 44.93,
-        "last_checked": "2026-11-20"
+        "outcome": "open_profitable",
+        "best_price": 39.29,
+        "best_move_pct": -21.22,
+        "current_price": 39.46,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "DDOG",
@@ -594,8 +744,8 @@
         "outcome": "open",
         "best_price": 182.27,
         "best_move_pct": 5.49,
-        "current_price": 166.45,
-        "last_checked": "2026-11-20"
+        "current_price": 157.51,
+        "last_checked": "2026-11-21"
       }
     ]
   },
@@ -628,8 +778,8 @@
         "outcome": "open",
         "best_price": 162.84,
         "best_move_pct": 0.0,
-        "current_price": 145.99,
-        "last_checked": "2026-11-20"
+        "current_price": 125.65,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "FER",
@@ -655,10 +805,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 59.01,
-        "best_move_pct": -4.33,
-        "current_price": 59.01,
-        "last_checked": "2026-11-20"
+        "best_price": 57.12,
+        "best_move_pct": -7.39,
+        "current_price": 57.39,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "TTWO",
@@ -684,10 +834,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 201.91,
-        "best_move_pct": -11.37,
-        "current_price": 208.77,
-        "last_checked": "2026-11-20"
+        "best_price": 200.01,
+        "best_move_pct": -12.2,
+        "current_price": 210.28,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "RKLB",
@@ -713,10 +863,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 50.46,
-        "best_move_pct": -17.99,
-        "current_price": 50.98,
-        "last_checked": "2026-11-20"
+        "best_price": 45.13,
+        "best_move_pct": -26.65,
+        "current_price": 45.47,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "CRWV",
@@ -742,10 +892,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 44.77,
-        "best_move_pct": -15.69,
-        "current_price": 44.93,
-        "last_checked": "2026-11-20"
+        "best_price": 39.29,
+        "best_move_pct": -26.01,
+        "current_price": 39.46,
+        "last_checked": "2026-11-21"
       }
     ]
   },
@@ -778,8 +928,8 @@
         "outcome": "open",
         "best_price": 169.98,
         "best_move_pct": 2.35,
-        "current_price": 145.99,
-        "last_checked": "2026-11-20"
+        "current_price": 125.65,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "TTWO",
@@ -805,10 +955,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 201.91,
-        "best_move_pct": -10.98,
-        "current_price": 208.77,
-        "last_checked": "2026-11-20"
+        "best_price": 200.01,
+        "best_move_pct": -11.82,
+        "current_price": 210.28,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "RKLB",
@@ -832,12 +982,13 @@
           "strong downtrend (20<50<200 SMA)"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 50.46,
-        "best_move_pct": -21.25,
-        "current_price": 50.98,
-        "last_checked": "2026-11-20"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 45.13,
+        "best_move_pct": -29.57,
+        "current_price": 45.47,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "FER",
@@ -862,11 +1013,11 @@
         ],
         "context_note": null,
         "resolved": false,
-        "outcome": "open",
-        "best_price": 59.01,
-        "best_move_pct": -3.53,
-        "current_price": 59.01,
-        "last_checked": "2026-11-20"
+        "outcome": "open_profitable",
+        "best_price": 57.12,
+        "best_move_pct": -6.62,
+        "current_price": 57.39,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "CRWV",
@@ -892,10 +1043,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 44.77,
-        "best_move_pct": -20.89,
-        "current_price": 44.93,
-        "last_checked": "2026-11-20"
+        "best_price": 39.29,
+        "best_move_pct": -30.57,
+        "current_price": 39.46,
+        "last_checked": "2026-11-21"
       }
     ]
   },
@@ -928,8 +1079,8 @@
         "outcome": "open",
         "best_price": 173.85,
         "best_move_pct": 0.0,
-        "current_price": 145.99,
-        "last_checked": "2026-11-20"
+        "current_price": 125.65,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "TTWO",
@@ -955,10 +1106,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 201.91,
-        "best_move_pct": -12.66,
-        "current_price": 208.77,
-        "last_checked": "2026-11-20"
+        "best_price": 200.01,
+        "best_move_pct": -13.49,
+        "current_price": 210.28,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "CRWV",
@@ -984,10 +1135,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 44.77,
-        "best_move_pct": -26.37,
-        "current_price": 44.93,
-        "last_checked": "2026-11-20"
+        "best_price": 39.29,
+        "best_move_pct": -35.38,
+        "current_price": 39.46,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "RKLB",
@@ -1011,12 +1162,13 @@
           "strong downtrend (20<50<200 SMA)"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 50.46,
-        "best_move_pct": -23.72,
-        "current_price": 50.98,
-        "last_checked": "2026-11-20"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 45.13,
+        "best_move_pct": -31.78,
+        "current_price": 45.47,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "FER",
@@ -1042,10 +1194,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 59.01,
-        "best_move_pct": -3.72,
-        "current_price": 59.01,
-        "last_checked": "2026-11-20"
+        "best_price": 57.12,
+        "best_move_pct": -6.8,
+        "current_price": 57.39,
+        "last_checked": "2026-11-21"
       }
     ]
   },
@@ -1078,8 +1230,8 @@
         "outcome": "open",
         "best_price": 177.51,
         "best_move_pct": 5.17,
-        "current_price": 145.99,
-        "last_checked": "2026-11-20"
+        "current_price": 125.65,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "TTWO",
@@ -1105,10 +1257,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 201.91,
-        "best_move_pct": -10.08,
-        "current_price": 208.77,
-        "last_checked": "2026-11-20"
+        "best_price": 200.01,
+        "best_move_pct": -10.92,
+        "current_price": 210.28,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "FER",
@@ -1133,11 +1285,11 @@
         ],
         "context_note": null,
         "resolved": false,
-        "outcome": "open",
-        "best_price": 59.01,
-        "best_move_pct": -3.23,
-        "current_price": 59.01,
-        "last_checked": "2026-11-20"
+        "outcome": "open_profitable",
+        "best_price": 57.12,
+        "best_move_pct": -6.33,
+        "current_price": 57.39,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "RKLB",
@@ -1163,10 +1315,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 50.46,
-        "best_move_pct": -19.59,
-        "current_price": 50.98,
-        "last_checked": "2026-11-20"
+        "best_price": 45.13,
+        "best_move_pct": -28.08,
+        "current_price": 45.47,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "ADBE",
@@ -1194,8 +1346,8 @@
         "outcome": "open_profitable",
         "best_price": 251.28,
         "best_move_pct": 6.16,
-        "current_price": 221.71,
-        "last_checked": "2026-11-20"
+        "current_price": 217.81,
+        "last_checked": "2026-11-21"
       }
     ]
   },
@@ -1226,10 +1378,10 @@
         "context_note": null,
         "resolved": false,
         "outcome": "open_profitable",
-        "best_price": 59.01,
-        "best_move_pct": -3.83,
-        "current_price": 59.01,
-        "last_checked": "2026-11-20"
+        "best_price": 57.12,
+        "best_move_pct": -6.91,
+        "current_price": 57.39,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "NVDA",
@@ -1257,8 +1409,8 @@
         "outcome": "open",
         "best_price": 178.64,
         "best_move_pct": 0.0,
-        "current_price": 145.99,
-        "last_checked": "2026-11-20"
+        "current_price": 125.65,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "FANG",
@@ -1286,8 +1438,8 @@
         "outcome": "open",
         "best_price": 185.91,
         "best_move_pct": 4.36,
-        "current_price": 176.73,
-        "last_checked": "2026-11-20"
+        "current_price": 175.77,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "DDOG",
@@ -1315,8 +1467,8 @@
         "outcome": "open",
         "best_price": 188.56,
         "best_move_pct": 4.96,
-        "current_price": 166.45,
-        "last_checked": "2026-11-20"
+        "current_price": 157.51,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "FTNT",
@@ -1344,8 +1496,8 @@
         "outcome": "open_profitable",
         "best_price": 139.02,
         "best_move_pct": 13.56,
-        "current_price": 131.47,
-        "last_checked": "2026-11-20"
+        "current_price": 124.51,
+        "last_checked": "2026-11-21"
       }
     ]
   },
@@ -1378,8 +1530,8 @@
         "outcome": "open_profitable",
         "best_price": 414.67,
         "best_move_pct": 14.19,
-        "current_price": 377.31,
-        "last_checked": "2026-11-20"
+        "current_price": 346.55,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "DDOG",
@@ -1407,8 +1559,8 @@
         "outcome": "open",
         "best_price": 188.56,
         "best_move_pct": 5.25,
-        "current_price": 166.45,
-        "last_checked": "2026-11-20"
+        "current_price": 157.51,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "MRVL",
@@ -1436,8 +1588,8 @@
         "outcome": "open_profitable",
         "best_price": 174.5,
         "best_move_pct": 23.69,
-        "current_price": 138.45,
-        "last_checked": "2026-11-20"
+        "current_price": 122.28,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "TER",
@@ -1465,8 +1617,8 @@
         "outcome": "open_profitable",
         "best_price": 273.11,
         "best_move_pct": 25.15,
-        "current_price": 227.48,
-        "last_checked": "2026-11-20"
+        "current_price": 204.68,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "CSCO",
@@ -1494,8 +1646,8 @@
         "outcome": "open_profitable",
         "best_price": 103.15,
         "best_move_pct": 9.97,
-        "current_price": 94.67,
-        "last_checked": "2026-11-20"
+        "current_price": 90.69,
+        "last_checked": "2026-11-21"
       }
     ]
   },
@@ -1528,8 +1680,8 @@
         "outcome": "open",
         "best_price": 57.1,
         "best_move_pct": -3.6,
-        "current_price": 59.01,
-        "last_checked": "2026-11-20"
+        "current_price": 57.39,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "ADI",
@@ -1557,8 +1709,8 @@
         "outcome": "open_profitable",
         "best_price": 414.67,
         "best_move_pct": 14.82,
-        "current_price": 377.31,
-        "last_checked": "2026-11-20"
+        "current_price": 346.55,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "DDOG",
@@ -1586,8 +1738,8 @@
         "outcome": "open",
         "best_price": 188.56,
         "best_move_pct": 7.98,
-        "current_price": 166.45,
-        "last_checked": "2026-11-20"
+        "current_price": 157.51,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "PLTR",
@@ -1615,8 +1767,8 @@
         "outcome": "open_profitable",
         "best_price": 175.34,
         "best_move_pct": 13.19,
-        "current_price": 153.62,
-        "last_checked": "2026-11-20"
+        "current_price": 143.65,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "BKR",
@@ -1644,8 +1796,8 @@
         "outcome": "open_profitable",
         "best_price": 49.92,
         "best_move_pct": 8.05,
-        "current_price": 46.67,
-        "last_checked": "2026-11-20"
+        "current_price": 44.83,
+        "last_checked": "2026-11-21"
       }
     ]
   },
@@ -1678,8 +1830,8 @@
         "outcome": "open",
         "best_price": 57.1,
         "best_move_pct": -3.15,
-        "current_price": 59.01,
-        "last_checked": "2026-11-20"
+        "current_price": 57.39,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "DDOG",
@@ -1707,8 +1859,8 @@
         "outcome": "open",
         "best_price": 188.75,
         "best_move_pct": 0.0,
-        "current_price": 166.45,
-        "last_checked": "2026-11-20"
+        "current_price": 157.51,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "MRVL",
@@ -1736,8 +1888,8 @@
         "outcome": "open",
         "best_price": 174.5,
         "best_move_pct": 9.16,
-        "current_price": 138.45,
-        "last_checked": "2026-11-20"
+        "current_price": 122.28,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "PLTR",
@@ -1765,8 +1917,8 @@
         "outcome": "open",
         "best_price": 175.34,
         "best_move_pct": 2.13,
-        "current_price": 153.62,
-        "last_checked": "2026-11-20"
+        "current_price": 143.65,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "FANG",
@@ -1794,8 +1946,8 @@
         "outcome": "open",
         "best_price": 187.21,
         "best_move_pct": 2.39,
-        "current_price": 176.73,
-        "last_checked": "2026-11-20"
+        "current_price": 175.77,
+        "last_checked": "2026-11-21"
       }
     ]
   },
@@ -1828,8 +1980,8 @@
         "outcome": "open",
         "best_price": 139.02,
         "best_move_pct": 8.52,
-        "current_price": 131.47,
-        "last_checked": "2026-11-20"
+        "current_price": 124.51,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "DDOG",
@@ -1857,8 +2009,8 @@
         "outcome": "open",
         "best_price": 220.42,
         "best_move_pct": 0.0,
-        "current_price": 166.45,
-        "last_checked": "2026-11-20"
+        "current_price": 157.51,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "SHOP",
@@ -1886,8 +2038,8 @@
         "outcome": "open",
         "best_price": 153.72,
         "best_move_pct": 7.72,
-        "current_price": 131.96,
-        "last_checked": "2026-11-20"
+        "current_price": 123.75,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "FER",
@@ -1915,8 +2067,8 @@
         "outcome": "open",
         "best_price": 57.1,
         "best_move_pct": -0.76,
-        "current_price": 59.01,
-        "last_checked": "2026-11-20"
+        "current_price": 57.39,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "GOOG",
@@ -1944,8 +2096,8 @@
         "outcome": "open_profitable",
         "best_price": 301.58,
         "best_move_pct": 8.38,
-        "current_price": 270.81,
-        "last_checked": "2026-11-20"
+        "current_price": 264.14,
+        "last_checked": "2026-11-21"
       }
     ]
   },
@@ -1978,8 +2130,8 @@
         "outcome": "open_profitable",
         "best_price": 139.02,
         "best_move_pct": 10.18,
-        "current_price": 131.47,
-        "last_checked": "2026-11-20"
+        "current_price": 124.51,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "MRVL",
@@ -2007,8 +2159,8 @@
         "outcome": "open",
         "best_price": 177.2,
         "best_move_pct": 3.45,
-        "current_price": 138.45,
-        "last_checked": "2026-11-20"
+        "current_price": 122.28,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "DDOG",
@@ -2036,8 +2188,8 @@
         "outcome": "open",
         "best_price": 221.85,
         "best_move_pct": 2.73,
-        "current_price": 166.45,
-        "last_checked": "2026-11-20"
+        "current_price": 157.51,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "FER",
@@ -2065,8 +2217,8 @@
         "outcome": "open",
         "best_price": 57.1,
         "best_move_pct": -0.1,
-        "current_price": 59.01,
-        "last_checked": "2026-11-20"
+        "current_price": 57.39,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "MSFT",
@@ -2129,8 +2281,8 @@
         "outcome": "open",
         "best_price": 139.02,
         "best_move_pct": 2.21,
-        "current_price": 131.47,
-        "last_checked": "2026-11-20"
+        "current_price": 124.51,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "FER",
@@ -2158,8 +2310,8 @@
         "outcome": "open",
         "best_price": 55.29,
         "best_move_pct": 0.0,
-        "current_price": 59.01,
-        "last_checked": "2026-11-20"
+        "current_price": 57.39,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "DDOG",
@@ -2187,8 +2339,8 @@
         "outcome": "open",
         "best_price": 235.75,
         "best_move_pct": 0.11,
-        "current_price": 166.45,
-        "last_checked": "2026-11-20"
+        "current_price": 157.51,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "GOOG",
@@ -2216,8 +2368,8 @@
         "outcome": "open_profitable",
         "best_price": 301.58,
         "best_move_pct": 8.37,
-        "current_price": 270.81,
-        "last_checked": "2026-11-20"
+        "current_price": 264.14,
+        "last_checked": "2026-11-21"
       },
       {
         "symbol": "GOOGL",
@@ -2245,8 +2397,8 @@
         "outcome": "open_profitable",
         "best_price": 304.94,
         "best_move_pct": 8.95,
-        "current_price": 272.48,
-        "last_checked": "2026-11-20"
+        "current_price": 265.62,
+        "last_checked": "2026-11-21"
       }
     ]
   },
@@ -2275,12 +2427,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 139.11,
         "best_move_pct": 0.0,
-        "current_price": 131.47,
-        "last_checked": "2026-11-20"
+        "current_price": 124.51,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "SBUX",
@@ -2304,12 +2457,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 102.23,
         "best_move_pct": -3.2,
-        "current_price": 104.14,
-        "last_checked": "2026-11-20"
+        "current_price": 103.17,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "FER",
@@ -2333,12 +2487,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 55.24,
         "best_move_pct": -3.05,
-        "current_price": 59.01,
-        "last_checked": "2026-11-20"
+        "current_price": 57.39,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "GOOG",
@@ -2362,12 +2517,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 301.58,
         "best_move_pct": 6.84,
-        "current_price": 270.81,
-        "last_checked": "2026-11-20"
+        "current_price": 264.14,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "GOOGL",
@@ -2391,12 +2547,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 304.94,
         "best_move_pct": 7.54,
-        "current_price": 272.48,
-        "last_checked": "2026-11-20"
+        "current_price": 265.62,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       }
     ]
   },
@@ -2425,12 +2582,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 54.54,
         "best_move_pct": 0.0,
-        "current_price": 59.01,
-        "last_checked": "2026-11-20"
+        "current_price": 57.39,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "SBUX",
@@ -2454,12 +2612,13 @@
           "price near upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 102.23,
         "best_move_pct": -0.94,
-        "current_price": 104.14,
-        "last_checked": "2026-11-20"
+        "current_price": 103.17,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "EXC",
@@ -2483,12 +2642,13 @@
           "price near upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 44.79,
         "best_move_pct": 0.0,
-        "current_price": 45.42,
-        "last_checked": "2026-11-20"
+        "current_price": 45.71,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "GEHC",
@@ -2512,12 +2672,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 75.7,
         "best_move_pct": -0.18,
-        "current_price": 81.91,
-        "last_checked": "2026-11-20"
+        "current_price": 80.67,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "TER",
@@ -2541,12 +2702,13 @@
           "oversold momentum, 20d chg -21.7%"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 313.73,
         "best_move_pct": 0.0,
-        "current_price": 227.48,
-        "last_checked": "2026-11-20"
+        "current_price": 204.68,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       }
     ]
   },
@@ -2575,12 +2737,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 102.23,
         "best_move_pct": -0.79,
-        "current_price": 104.14,
-        "last_checked": "2026-11-20"
+        "current_price": 103.17,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "FER",
@@ -2604,12 +2767,13 @@
           "strong downtrend (20<50<200 SMA)"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 53.88,
         "best_move_pct": -0.24,
-        "current_price": 59.01,
-        "last_checked": "2026-11-20"
+        "current_price": 57.39,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "TER",
@@ -2633,12 +2797,13 @@
           "strong uptrend (20>50>200 SMA)"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 324.28,
         "best_move_pct": 0.0,
-        "current_price": 227.48,
-        "last_checked": "2026-11-20"
+        "current_price": 204.68,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "LRCX",
@@ -2662,12 +2827,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 260.53,
         "best_move_pct": 8.16,
-        "current_price": 203.71,
-        "last_checked": "2026-11-20"
+        "current_price": 183.6,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "EXC",
@@ -2691,12 +2857,13 @@
           "price near upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 44.42,
         "best_move_pct": -0.63,
-        "current_price": 45.42,
-        "last_checked": "2026-11-20"
+        "current_price": 45.71,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       }
     ]
   },
@@ -2725,12 +2892,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 260.53,
         "best_move_pct": 9.72,
-        "current_price": 203.71,
-        "last_checked": "2026-11-20"
+        "current_price": 183.6,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "SBUX",
@@ -2754,12 +2922,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 101.39,
         "best_move_pct": -1.28,
-        "current_price": 104.14,
-        "last_checked": "2026-11-20"
+        "current_price": 103.17,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "TER",
@@ -2783,12 +2952,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 328.83,
         "best_move_pct": 6.47,
-        "current_price": 227.48,
-        "last_checked": "2026-11-20"
+        "current_price": 204.68,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "ALAB",
@@ -2812,12 +2982,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 300.59,
         "best_move_pct": 15.84,
-        "current_price": 211.57,
-        "last_checked": "2026-11-20"
+        "current_price": 180.41,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "DXCM",
@@ -2876,12 +3047,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 426.39,
         "best_move_pct": 13.01,
-        "current_price": 338.91,
-        "last_checked": "2026-11-20"
+        "current_price": 302.14,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "LRCX",
@@ -2905,12 +3077,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 260.53,
         "best_move_pct": 13.25,
-        "current_price": 203.71,
-        "last_checked": "2026-11-20"
+        "current_price": 183.6,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "TER",
@@ -2934,12 +3107,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 328.83,
         "best_move_pct": 6.43,
-        "current_price": 227.48,
-        "last_checked": "2026-11-20"
+        "current_price": 204.68,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "GOOGL",
@@ -2963,12 +3137,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 326.35,
         "best_move_pct": 1.91,
-        "current_price": 272.48,
-        "last_checked": "2026-11-20"
+        "current_price": 265.62,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "ALAB",
@@ -2992,12 +3167,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 300.59,
         "best_move_pct": 16.82,
-        "current_price": 211.57,
-        "last_checked": "2026-11-20"
+        "current_price": 180.41,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       }
     ]
   },
@@ -3026,12 +3202,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 261.04,
         "best_move_pct": 0.0,
-        "current_price": 203.71,
-        "last_checked": "2026-11-20"
+        "current_price": 183.6,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "GOOG",
@@ -3055,12 +3232,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 331.01,
         "best_move_pct": 0.0,
-        "current_price": 270.81,
-        "last_checked": "2026-11-20"
+        "current_price": 264.14,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "PEP",
@@ -3084,12 +3262,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 131.9,
         "best_move_pct": -2.07,
-        "current_price": 139.0,
-        "last_checked": "2026-11-20"
+        "current_price": 140.57,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "ARM",
@@ -3113,12 +3292,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 236.79,
         "best_move_pct": 4.49,
-        "current_price": 177.22,
-        "last_checked": "2026-11-20"
+        "current_price": 152.24,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "DXCM",
@@ -3142,12 +3322,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 90.25,
         "best_move_pct": 12.45,
-        "current_price": 80.18,
-        "last_checked": "2026-11-20"
+        "current_price": 79.38,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       }
     ]
   },
@@ -3176,12 +3357,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 269.9,
         "best_move_pct": 2.48,
-        "current_price": 203.71,
-        "last_checked": "2026-11-20"
+        "current_price": 183.6,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "ARM",
@@ -3205,12 +3387,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 236.79,
         "best_move_pct": 7.15,
-        "current_price": 177.22,
-        "last_checked": "2026-11-20"
+        "current_price": 152.24,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "KLAC",
@@ -3234,12 +3417,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 171.29,
         "best_move_pct": 5.81,
-        "current_price": 141.57,
-        "last_checked": "2026-11-20"
+        "current_price": 127.21,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "PANW",
@@ -3263,12 +3447,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 405.77,
         "best_move_pct": 19.23,
-        "current_price": 361.75,
-        "last_checked": "2026-11-20"
+        "current_price": 343.51,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "ORLY",
@@ -3292,12 +3477,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 86.72,
         "best_move_pct": -3.64,
-        "current_price": 92.6,
-        "last_checked": "2026-11-20"
+        "current_price": 92.7,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       }
     ]
   },
@@ -3326,12 +3512,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 271.98,
         "best_move_pct": 0.0,
-        "current_price": 203.71,
-        "last_checked": "2026-11-20"
+        "current_price": 183.6,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "ARM",
@@ -3355,12 +3542,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 236.79,
         "best_move_pct": 3.83,
-        "current_price": 177.22,
-        "last_checked": "2026-11-20"
+        "current_price": 152.24,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "ORLY",
@@ -3384,12 +3572,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 86.72,
         "best_move_pct": -2.63,
-        "current_price": 92.6,
-        "last_checked": "2026-11-20"
+        "current_price": 92.7,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "COST",
@@ -3413,12 +3602,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 980.36,
         "best_move_pct": -1.55,
-        "current_price": 1094.03,
-        "last_checked": "2026-11-20"
+        "current_price": 1104.36,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "IDXX",
@@ -3442,12 +3632,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 541.11,
         "best_move_pct": -2.6,
-        "current_price": 689.78,
-        "last_checked": "2026-11-20"
+        "current_price": 675.99,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       }
     ]
   },
@@ -3476,12 +3667,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 279.92,
         "best_move_pct": 6.07,
-        "current_price": 203.71,
-        "last_checked": "2026-11-20"
+        "current_price": 183.6,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "ARM",
@@ -3505,12 +3697,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 236.79,
         "best_move_pct": 3.97,
-        "current_price": 177.22,
-        "last_checked": "2026-11-20"
+        "current_price": 152.24,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "NBIS",
@@ -3534,12 +3727,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 182.63,
         "best_move_pct": 10.35,
-        "current_price": 96.87,
-        "last_checked": "2026-11-20"
+        "current_price": 81.35,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "NVDA",
@@ -3563,12 +3757,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 222.18,
         "best_move_pct": 3.76,
-        "current_price": 145.99,
-        "last_checked": "2026-11-20"
+        "current_price": 125.65,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "MRVL",
@@ -3592,12 +3787,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 253.54,
         "best_move_pct": 11.33,
-        "current_price": 138.45,
-        "last_checked": "2026-11-20"
+        "current_price": 122.28,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       }
     ]
   },
@@ -3626,12 +3822,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 279.92,
         "best_move_pct": 0.89,
-        "current_price": 203.71,
-        "last_checked": "2026-11-20"
+        "current_price": 183.6,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "NBIS",
@@ -3655,12 +3852,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 188.41,
         "best_move_pct": 0.0,
-        "current_price": 96.87,
-        "last_checked": "2026-11-20"
+        "current_price": 81.35,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "MAR",
@@ -3684,12 +3882,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 381.04,
         "best_move_pct": -1.21,
-        "current_price": 414.15,
-        "last_checked": "2026-11-20"
+        "current_price": 406.64,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "ORLY",
@@ -3713,12 +3912,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 86.72,
         "best_move_pct": -2.01,
-        "current_price": 92.6,
-        "last_checked": "2026-11-20"
+        "current_price": 92.7,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "NVDA",
@@ -3742,12 +3942,13 @@
           "strong uptrend (20>50>200 SMA)"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 222.18,
         "best_move_pct": 2.23,
-        "current_price": 145.99,
-        "last_checked": "2026-11-20"
+        "current_price": 125.65,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       }
     ]
   },
@@ -3776,12 +3977,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 123.84,
         "best_move_pct": -1.42,
-        "current_price": 124.98,
-        "last_checked": "2026-11-20"
+        "current_price": 125.17,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "CMCSA",
@@ -3835,12 +4037,13 @@
           "oversold momentum, 20d chg -11.8%"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 112.64,
         "best_move_pct": 4.34,
-        "current_price": 104.12,
-        "last_checked": "2026-11-20"
+        "current_price": 102.26,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "GEHC",
@@ -3864,12 +4067,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 67.67,
         "best_move_pct": -1.64,
-        "current_price": 81.91,
-        "last_checked": "2026-11-20"
+        "current_price": 80.67,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "VRTX",
@@ -3928,12 +4132,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 123.48,
         "best_move_pct": -0.62,
-        "current_price": 124.98,
-        "last_checked": "2026-11-20"
+        "current_price": 125.17,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "CMCSA",
@@ -3987,12 +4192,13 @@
           "oversold momentum, 20d chg -12.0%"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 112.64,
         "best_move_pct": 4.18,
-        "current_price": 104.12,
-        "last_checked": "2026-11-20"
+        "current_price": 102.26,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "QCOM",
@@ -4016,12 +4222,13 @@
           "strong uptrend (20>50>200 SMA)"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 185.53,
         "best_move_pct": 6.38,
-        "current_price": 161.99,
-        "last_checked": "2026-11-20"
+        "current_price": 150.08,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "TMUS",
@@ -4045,12 +4252,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 175.0,
         "best_move_pct": 15.19,
-        "current_price": 162.48,
-        "last_checked": "2026-11-20"
+        "current_price": 165.59,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       }
     ]
   },
@@ -4079,12 +4287,13 @@
           "price at/below lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 175.0,
         "best_move_pct": 17.79,
-        "current_price": 162.48,
-        "last_checked": "2026-11-20"
+        "current_price": 165.59,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "CMCSA",
@@ -4198,12 +4407,13 @@
           "oversold momentum, 20d chg -12.0%"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 112.64,
         "best_move_pct": 4.28,
-        "current_price": 104.12,
-        "last_checked": "2026-11-20"
+        "current_price": 102.26,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       }
     ]
   },
@@ -4292,12 +4502,13 @@
           "strong uptrend (20>50>200 SMA)"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 185.53,
         "best_move_pct": 5.38,
-        "current_price": 161.99,
-        "last_checked": "2026-11-20"
+        "current_price": 150.08,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "VRTX",
@@ -4351,12 +4562,13 @@
           "strong downtrend (20<50<200 SMA)"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 302.25,
-        "best_move_pct": -13.38,
-        "current_price": 304.93,
-        "last_checked": "2026-11-20"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 279.24,
+        "best_move_pct": -19.97,
+        "current_price": 281.5,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       }
     ]
   },
@@ -4385,12 +4597,13 @@
           "price near upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 302.25,
-        "best_move_pct": -15.14,
-        "current_price": 304.93,
-        "last_checked": "2026-11-20"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 279.24,
+        "best_move_pct": -21.6,
+        "current_price": 281.5,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "PCAR",
@@ -4414,12 +4627,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 112.64,
         "best_move_pct": 5.42,
-        "current_price": 104.12,
-        "last_checked": "2026-11-20"
+        "current_price": 102.26,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "CEG",
@@ -4503,12 +4717,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 120.42,
         "best_move_pct": -28.17,
-        "current_price": 138.17,
-        "last_checked": "2026-11-20"
+        "current_price": 127.97,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       }
     ]
   },
@@ -4537,12 +4752,13 @@
           "price near upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 302.25,
-        "best_move_pct": -15.93,
-        "current_price": 304.93,
-        "last_checked": "2026-11-20"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 279.24,
+        "best_move_pct": -22.33,
+        "current_price": 281.5,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "CRWV",
@@ -4626,12 +4842,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 120.42,
         "best_move_pct": -29.98,
-        "current_price": 138.17,
-        "last_checked": "2026-11-20"
+        "current_price": 127.97,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "RKLB",
@@ -4690,12 +4907,13 @@
           "price near upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 302.25,
-        "best_move_pct": -14.51,
-        "current_price": 304.93,
-        "last_checked": "2026-11-20"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 279.24,
+        "best_move_pct": -21.01,
+        "current_price": 281.5,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "SPCX",
@@ -4719,12 +4937,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 120.42,
         "best_move_pct": -29.62,
-        "current_price": 138.17,
-        "last_checked": "2026-11-20"
+        "current_price": 127.97,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "PCAR",
@@ -4748,12 +4967,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 112.64,
         "best_move_pct": 2.96,
-        "current_price": 104.12,
-        "last_checked": "2026-11-20"
+        "current_price": 102.26,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "KLAC",
@@ -4842,12 +5062,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 302.25,
-        "best_move_pct": -14.01,
-        "current_price": 304.93,
-        "last_checked": "2026-11-20"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 279.24,
+        "best_move_pct": -20.56,
+        "current_price": 281.5,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "KLAC",
@@ -4931,12 +5152,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 112.64,
         "best_move_pct": 2.67,
-        "current_price": 104.12,
-        "last_checked": "2026-11-20"
+        "current_price": 102.26,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "MCHP",
@@ -4995,12 +5217,13 @@
           "price at/above upper Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
-        "best_price": 302.25,
-        "best_move_pct": -13.81,
-        "current_price": 304.93,
-        "last_checked": "2026-11-20"
+        "resolved": true,
+        "outcome": "target_hit",
+        "best_price": 279.24,
+        "best_move_pct": -20.37,
+        "current_price": 281.5,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "PAYX",
@@ -5209,12 +5432,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 112.64,
         "best_move_pct": 2.57,
-        "current_price": 104.12,
-        "last_checked": "2026-11-20"
+        "current_price": 102.26,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       },
       {
         "symbol": "MDLZ",
@@ -5268,12 +5492,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open_profitable",
+        "resolved": true,
+        "outcome": "expired_profitable",
         "best_price": 59.09,
         "best_move_pct": 7.69,
-        "current_price": 46.67,
-        "last_checked": "2026-11-20"
+        "current_price": 44.83,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       }
     ]
   },
@@ -5577,12 +5802,13 @@
           "price near lower Bollinger Band"
         ],
         "context_note": null,
-        "resolved": false,
-        "outcome": "open",
+        "resolved": true,
+        "outcome": "expired_loss",
         "best_price": 112.64,
         "best_move_pct": 0.89,
-        "current_price": 104.12,
-        "last_checked": "2026-11-20"
+        "current_price": 102.26,
+        "last_checked": "2026-11-21",
+        "resolved_date": "2026-11-21"
       }
     ]
   },
